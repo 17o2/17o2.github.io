@@ -50,6 +50,7 @@ defaults:
 # from https://jekyllrb.com/docs/collections/
 collections:
   - projects
+  - academic
 
 
 # Exclude from processing.

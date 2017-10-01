@@ -3,4 +3,6 @@ title: About
 permalink: /about/
 ---
 
-Spontaneous edit on about page.
+Daniel Rojas
+
+hello@danielrojas.net

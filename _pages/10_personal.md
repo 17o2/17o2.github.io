@@ -7,7 +7,7 @@ permalink: /projects/
 
 <h2>{{project.title}}</h2>
 {% if project.image %}
-<img src="{{project.image}}" height="200" />
+<img src="{{project.image}}" height="200" class="project-image" />
 {% endif %}
 {{ project.summary }}
 {% if project.description and false %}

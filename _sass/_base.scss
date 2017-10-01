@@ -3,6 +3,8 @@ $main: #E34234;
 $font-style: 'osifont', monospace;
 $font-color: #262626;
 $link-color: #BD1D0F;
+$shade1: #00ff00;
+$shade2: #888888;
 $link-hover-color: $main;
 $heading-font-color: $font-color;
 $heading-font: $font-style;
@@ -13,4 +15,23 @@ $heading-font: $font-style;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
+}
+
+.title {
+	text-align: right;
+	color: $shade1;
+	text-decoraton: none;
+}
+
+.title > a {
+	color: $shade1;
+	text-decoraton: none;
+}
+
+.shade2 {
+	color: $shade2;
+}
+
+.abstract {
+	text-align: justify;
 }
