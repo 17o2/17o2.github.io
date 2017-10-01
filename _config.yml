@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: danielrojas.net
+title: Daniel Rojas
 email: webmaster@danielrojas.net
 description: >- # this means to ignore newlines until "baseurl:"
   Daniel Rojas - Engineer by training, maker by heart
@@ -33,6 +33,23 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
+
+# from https://jekyllrb.com/docs/configuration/#front-matter-defaults
+defaults:
+  -
+    scope:
+      path: '_pages'
+    values:
+      layout: page
+  -
+    scope:
+      path: "_assets/images"
+    values:
+      image: true
+
+# from https://jekyllrb.com/docs/collections/
+collections:
+  - projects
 
 
 # Exclude from processing.

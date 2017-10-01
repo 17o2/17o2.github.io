@@ -1,17 +1,17 @@
+<header>
+	<h1><a href="{{ site.baseurl }}" style="text-decoration:none"><span style="font-family:osifont,iso-thick;color:#666666;font-size:32pt;">
+      DANIELROJAS<span style="color:#888888;">.<span style="font-size:62%">NET</span></span>
+     </span></a></h1>
+</header>
+
 <aside>
 	<div class="container">
 		<nav>
-			<ul>
 				{% for page in site.pages %} {% if page.title %}
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+				<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 				{% endif %} {% endfor %}
-			</ul>
 			</li>
 			</ul>
 		</nav>
 	</div>
 </aside>
-
-<header>
-	<h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
-</header>
