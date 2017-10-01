@@ -16,16 +16,24 @@
 title: danielrojas.net
 email: webmaster@danielrojas.net
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal website
-baseurl: "" # the subpath of your site, e.g. /blog
+  Daniel Rojas - Engineer by training, maker by heart
+baseurl: "/formatc1702.github.io" # the subpath of your site, e.g. /blog
 url: "http://danielrojas.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  formatc1702
 
 # Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+#markdown: kramdown
+#theme: minima
+#plugins:
+#  - jekyll-feed
+
+# from https://www.taniarascia.com/make-a-static-website-with-jekyll/
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
