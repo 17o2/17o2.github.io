@@ -3,6 +3,11 @@ title: "Diploma Thesis / Diplomarbeit"
 image: "da.png"
 download: "danielrojas_da_300dpi"
 summary: "Development of a jumping robot using soft pneumatic actuators"
+location: >
+  Department of Mechanical and Aerospace Engineering,
+  Hong Kong University of Science and Technology;
+  Institute for Anthropomatics,
+  Karlsruhe Institute of Technology
 abstract: >
   Soft robotics is an emerging field of novel mechanical designs that create compliant and tolerant structures out of flexible materials, attempting to reduce the complexity of both their hardware and software to compensate for or eliminate some of the constraints set by traditional ’hard’ robots such as low adaptability or high complexity. At the same time, jumping is a very interesting method of locomotion, with the animal kingdom providing myriads of very diverse and successful examples. The study of jumping or hopping robots could prove extremely useful in situations such as rough terrain, high obstacles and other complex environments.
 

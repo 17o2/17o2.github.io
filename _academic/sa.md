@@ -3,6 +3,9 @@ title: "Student Research Project / Studienarbeit"
 image: "sa.png"
 download: "danielrojas_sa_300dpi"
 summary: "Development of a scale model automatic storage and retrieval machine based on the principle of the inverted pendulum"
+location: >
+  Institute for Material Handling and Logistics,
+  Karlsruhe Institute of Technology
 abstract: >
   In order to study a new concept for the design of an automatic storage and retrieval machine (AS/RS) for use in high-rise warehouses, a scale model of such an AS/RS is to be developed and built. In addition to the linear degrees of freedom in the x and y directions, the mast of the machine is to be equipped with a rotational DOF around the z axis. This would allow the device to operate similarly to an inverted pendulum, with a state controller keeping the balance.
 

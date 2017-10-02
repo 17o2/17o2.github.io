@@ -12,6 +12,7 @@ permalink: /personal/academic/
 
 <h2>{{project.title}}</h2>
 <h3>{{ project.summary }}</h3>
+<h5>{{ project.location }}</h5>
 {% if project.image %}
 <img src="/academic/{{project.image}}" height="200" />
 {% endif %}
