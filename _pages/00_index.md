@@ -34,7 +34,7 @@ layout: default
 <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;">
 {% for thing in site.data.contact %}
 <div style="text-align:center;padding:1em;min-width:15%">
-<a href="{{thing.link}}"><i class='fa fa-{{thing.icon}} fa-2x'></i><br />{{thing.name}}</a>
+<a href="{{thing.link}}" target="_blank"><i class='fa fa-{{thing.icon}} fa-2x'></i><br />{{thing.name}}</a>
 </div>
 {% endfor %}
 </div>

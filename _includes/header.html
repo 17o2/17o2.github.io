@@ -9,16 +9,30 @@
 	<div class="container"> -->
 	{% if page.title %}
 		<nav>
-			<a href="{{ site.baseurl }}">Home</a>
+			<table width="100%">
+				<tr>
+					<td align="left"><a href="/">Home</a></td>
+					<td align="center">
+
+
+			<!-- <a href="/">Home</a> -->
 				{% for eachpage in site.pages %} {% if eachpage.title and eachpage.category == page.category %}
-				&middot; <a href="{{ eachpage.url }}">{% if eachpage.shorttitle %}{{ eachpage.shorttitle }}{% else %}{{ eachpage.title }}{% endif %}</a>
+				<a href="{{ eachpage.url }}">{% if eachpage.shorttitle %}{{ eachpage.shorttitle }}{% else %}{{ eachpage.title }}{% endif %}</a>
 				{% endif %}
 				{% endfor %}
+
+			</td>
+			<td align="right">
 				{% if page.category == "personal" %}
-				&middot; <a href="{{ "/freelance" }}"> PROFESSIONAL </a>
+				<a href="{{ "/freelance" }}"> PROFESSIONAL </a>
 				{% else if page.category == "professional" %}
-				&middot; <a href="{{ "/index" }}"> PERSONAL </a>
+				<a href="{{ "/index" }}"> PERSONAL </a>
 				{% endif %}
+			</td>
+		</tr>
+	</table>
+
+
 		</nav>
 		{% endif %}
 	<!-- </div>
