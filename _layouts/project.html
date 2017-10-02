@@ -11,6 +11,9 @@ layout: default
   {% endif %}
   <h2>{{page.title}}</h2>
   <div>{{ page.summary }}</div>
+  {% if page.wip %}
+  <div><i class='fa fa-gears fa-lg'></i> This project is still a work in progress</div>
+  {% endif %}
 
 
   <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;">

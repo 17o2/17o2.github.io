@@ -21,6 +21,10 @@
 {% if project.link %}<a href="{{project.link}}"><i class='fa fa-external-link fa-lg'></i></a>{% endif %}
 </div>
 <div>{{ project.summary }}</div>
+
+{% if project.wip %}
+<div><small><i class='fa fa-gears'></i> [Work in progress]</small></div>
+{% endif %}
 <!-- {% if project.description and false %}
 <p>{{project.description}}</p>
 {% endif %} -->
