@@ -5,7 +5,6 @@ category: personal
 subcategory: engineering
 image: "avrprog.png"
 summary: "No external components necessary"
-hackaday:
-github:
-youtube:
+github: http://github.com/formatc1702/Mini-Arduino-ISP/tree/master/v1/EAGLE
+link: http://oshpark.com/shared_projects/3g3kJMO2
 ---

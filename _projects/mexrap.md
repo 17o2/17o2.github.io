@@ -8,5 +8,5 @@ summary: "My own Mendel90-based design."
 hackaday:
 github:
 youtube:
-link: "http://www.flickr.com/photos/104306512@N02/sets/72157636660070185/"
+flickr: "http://www.flickr.com/photos/104306512@N02/sets/72157636660070185/"
 ---
