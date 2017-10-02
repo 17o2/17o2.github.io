@@ -1,6 +1,6 @@
 ---
 title: References
-permalink: /references/
+permalink: /professional/references/
 category: professional
 ---
 

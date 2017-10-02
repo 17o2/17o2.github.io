@@ -1,7 +1,7 @@
 ---
 title: Projects for Fun
 shorttitle: Fun
-permalink: /fun/
+permalink: /personal/fun/
 category: personal
 ---
 

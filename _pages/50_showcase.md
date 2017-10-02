@@ -1,7 +1,7 @@
 ---
 title: Work Showcase
 shorttitle: Showcase
-permalink: /showcase/
+permalink: /professional/showcase/
 category: professional
 ---
 

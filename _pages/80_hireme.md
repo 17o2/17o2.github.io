@@ -1,6 +1,6 @@
 ---
 title: Hire Me!
-permalink: /hireme/
+permalink: /professional/hireme/
 category: professional
 ---
 

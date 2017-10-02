@@ -1,7 +1,7 @@
 ---
 title: Design & Art
 shorttitle: Design & Art
-permalink: /designart/
+permalink: /personal/designart/
 category: personal
 ---
 
