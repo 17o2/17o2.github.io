@@ -61,17 +61,18 @@ $heading-font: $font-style;
 	min-height: 4em;
 	min-width: 300px;
 	text-align: center;
+	word-wrap: normal;
 	// vertical-align: middle;
 }
 
-.light {
+.light, .light > a > h2 {
 	color: #262626;
 	/*background-color: #eeeeee;*/
 	background-color: #f7f7f7;
 	/*min-width: 200px;*/
 }
 
-.dark {
+.dark, .dark > a > h2 {
 	color: #d9d9d9;
 	/*background-color: #111111;*/
 	background-color: #222222;

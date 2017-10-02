@@ -16,17 +16,23 @@
 
 
 			<!-- <a href="/">Home</a> -->
-				{% for eachpage in site.pages %} {% if eachpage.title and eachpage.category == page.category %}
+				{% assign subcats = site.pages | where:"category",page.category" %}
+				{% for eachpage in subcats %}
 				<a href="{{ eachpage.url }}">{% if eachpage.shorttitle %}{{ eachpage.shorttitle }}{% else %}{{ eachpage.title }}{% endif %}</a>
+				{% if forloop.first == true %}
+				&gt;
+				{% endif %}
+				{% if forloop.last == false and forloop.first == false %}
+				&middot;
 				{% endif %}
 				{% endfor %}
 
 			</td>
 			<td align="right">
 				{% if page.category == "personal" %}
-				<a href="{{ "/freelance" }}"> PROFESSIONAL </a>
+				<a href="{{ "/professional" }}"> PROFESSIONAL </a>
 				{% else if page.category == "professional" %}
-				<a href="{{ "/index" }}"> PERSONAL </a>
+				<a href="{{ "/personal" }}"> PERSONAL </a>
 				{% endif %}
 			</td>
 		</tr>

@@ -6,24 +6,24 @@ layout: default
 <article class="coolcontainer">
 
   <div class="cool light">
-    <h2>Personal work</h2>
+    <a href="/personal"><h2>Personal work</h2></a>
     <div style="text-align:left;">
     <ul>
-    <li> <a href="projects/">Projects</a> </li>
-    <li> <a href="designart/">Design & Art</a> </li>
-    <li> <a href="academic/">Academic</a> </li>
-    <li> <a href="fun/">Fun</a> </li>
+    <li> <a href="/engineering/">Projects</a> </li>
+    <li> <a href="/designart/">Design & Art</a> </li>
+    <li> <a href="/academic/">Academic</a> </li>
+    <li> <a href="/fun/">Fun</a> </li>
     </ul>
     </div>
   </div>
 
   <div class="cool dark">
-    <h2>Professional work</h2>
+    <a href="/professional"><h2>Professional work</h2></a>
     <div style="text-align:left;">
     <ul>
-    <li> <a href="freelance/">Showcase</a> </li>
-    <li> <a href="references/">Rererences</a> </li>
-    <li> <a href="hireme/">Hire me</a> </li>
+    <li> <a href="/freelance/">Showcase</a> </li>
+    <li> <a href="/references/">Rererences</a> </li>
+    <li> <a href="/hireme/">Hire me</a> </li>
     </ul>
     </div>
   </div>

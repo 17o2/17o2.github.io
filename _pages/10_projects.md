@@ -1,8 +1,8 @@
 ---
-title: Personal projects
-shorttitle: Projects
+title: Personal engineering projects
+shorttitle: Engineering
 category: personal
-permalink: /projects/
+permalink: /engineering/
 ---
 
 {% include projectgallery.html subcategory="engineering" %}

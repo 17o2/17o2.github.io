@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="bubble">
-  {% if page.category == "personal" %}<a href="/projects"><h1>Personal projects</h1></a>{% endif %}
+  <!-- {% if page.category == "personal" %}<a href="/projects"><h3 style="text-align:right;">Personal projects</h3></a>{% endif %} -->
 
   <div style="text-align:center">
   {% if page.image %}
@@ -17,7 +17,25 @@ layout: default
   {% if page.youtube %}<li><a href="{{page.youtube}}"><i class='fa fa-youtube-play fa-2x'></i> YouTube video</a></li>{% endif %}
   {% if page.link %}<li><a href="{{page.link}}"><i class='fa fa-external-link fa-2x'></i> External link</a></li>{% endif %}
   </ul>
+{% if page.category %}
+  Category:   {% if page.category == "personal" %}<a href="/personal">Personal projects</a>{% else %}Unclassified{% endif %}
+  {% if page.subcategory %}
+    {% case page.subcategory %}
+    {% when 'engineering' %}
+    {% assign var = 'Engineering' %}
+    {% when 'designart' %}
+    {% assign var = 'Design & Art' %}
+    {% when 'fun' %}
+    {% assign var = 'Fun' %}
+    {% else %}
+    {% assign var = 'Other' %}
+    {% endcase %}
+    > <a href="/{{ page.subcategory }}">{{ var }}</a>
+  {% endif %}
+{% endif %}
   </div>
+
+
 <!-- {% if page.description and false %}
   <p>{{page.description}}</p>
   {% endif %} -->
