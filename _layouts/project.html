@@ -3,7 +3,22 @@ layout: default
 ---
 
 <article class="bubble">
-  <h1>PROJECT: {{ page.title }}</h1>
+  <a href="{{ page.url }}">
+  {% if page.image %}
+  <div style="padding-top:2em"><img src="{{ site.baseurl }}projectimages/{{ page.image }}" height="400" class="project-image" /></div>
+  {% endif %}
+  <h2>{{page.title}}</h2>
+  </a>
+  <div style="letter-spacing:0.25em;">
+  {% if page.github %}<a href="{{page.github}}"><i class='fa fa-github fa-2x'></i></a>{% endif %}
+  {% if page.hackaday %}<a href="{{page.hackaday}}"><i class='fa fa-rocket fa-2x'></i></a>{% endif %}
+  {% if page.youtube %}<a href="{{page.youtube}}"><i class='fa fa-youtube-play fa-2x'></i></a>{% endif %}
+  {% if page.link %}<a href="{{page.link}}"><i class='fa fa-external-link fa-2x'></i></a>{% endif %}
+  </div>
+  <div>{{ page.summary }}</div>
+  <!-- {% if page.description and false %}
+  <p>{{page.description}}</p>
+  {% endif %} -->
 
-  {{ content }}
+  </div>
 </article>
