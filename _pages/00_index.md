@@ -5,7 +5,7 @@ layout: default
 
 <article class="coolcontainer">
 
-  <div class="cool light">
+  <div class="personal cool">
     <a href="/personal"><h2>Personal work</h2></a>
     <div style="text-align:left;">
     <ul>
@@ -19,7 +19,9 @@ layout: default
     </div>
   </div>
 
-  <div class="cool dark">
+  <!-- <div class="coolsplitter"></div> -->
+
+  <div class="professional cool">
     <a href="/professional"><h2>Professional work</h2></a>
     <div style="text-align:left;">
     <ul>

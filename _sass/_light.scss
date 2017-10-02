@@ -1,0 +1,32 @@
+body {
+  background-color: $background-light;
+  color: $color-dark;
+}
+
+.bubble {
+  border-color: $bubble-border-light;
+  background-color: $bubble-bg-light;
+}
+
+a {
+  color: $link-light;
+}
+
+a:hover {
+  color: $link-hover-light;
+}
+
+.title > a,
+.title > a:hover {
+	color: $title-shade1;
+}
+
+.title2 {
+  color: $title-shade2;
+}
+
+/* for font-awesome */
+a > i {
+	color: $color-dark;
+;
+}

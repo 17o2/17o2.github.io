@@ -1,80 +1,65 @@
 $content-width: 800px;
-$main: #E34234;
-$font-style: 'osifont', monospace;
-$font-color: #262626;
-$link-color: #BD1D0F;
-$shade1: #666666;
-$shade2: #888888;
-$link-hover-color: $main;
-$heading-font-color: $font-color;
-$heading-font: $font-style;
+$font-style:    'osifont', monospace;
+$color-dark:       #262626;
+$color-light:      #f7f7f7;
+$link-light:       #bd1d0f;
+$link-dark:        #e34234;
+$link-hover-light: #e34234;
+$link-hover-dark:  #FE4938;
+$background-light: #ffffff;
+$background-dark:  #000000;
+$bubble-bg-light:     #f9f9f9;
+$bubble-bg-dark:      #222222;
+$bubble-border-light: #c0c0c0;
+$bubble-border-dark:  $bubble-border-light;
+$title-shade1: #666666;
+$title-shade2: #888888;
 
+.coolcontainer {
+  border-color: $bubble-border-light;
+}
+
+.personal {
+  background-color: $bubble-bg-light;
+}
+
+.personal > a > h2 {
+	color: $color-dark;
+}
+
+.professional {
+  background-color: $bubble-bg-dark;
+}
+
+.professional > a > h2 {
+	color: $bubble-bg-light;
+}
+
+.professional > div > ul > li > a {
+	color: $link-dark;
+}
+
+.professional > div > ul > li > a:hover {
+	color: $link-hover-dark;
+}
+
+.professional > div > ul li {
+	color: $color-light;
+}
+
+// .coolsplitter {
+//   background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' preserveAspectRatio='none' viewBox='0 0 10 10'> <path d='M0 0 L10 0 L0 10 ' fill='%23222222' /> </svg>");
+//   background-repeat:no-repeat;
+//   background-position:center center;
+//   background-size: 100% 100%, auto;
+//   border-width: 0px;
+//   width: 100px;
+// }
+//
 *,
 *::before,
 *::after {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-}
-
-.title {
-	text-align: right;
-	color: $shade1;
-	text-decoraton: none;
-}
-
-.title > a,
-.title > a:hover {
-	color: $shade1;
-	text-decoraton: none;
-}
-
-.shade2 {
-	color: $shade2;
-}
-
-.abstract {
-	text-align: justify;
-}
-
-// border-style: solid;
-// border-width: 1px;
-// border-color: #c0c0c0;
-// border-radius: 10px;
-// background-color: #f9f9f9;
-// padding: 1em;
-
-.coolcontainer {
-	display: flex;
-	flex-wrap:wrap;
-	overflow: hidden;
-	padding: 0px;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #c0c0c0;
-	border-radius: 10px;
-	margin-bottom: 1em;
-}
-
-.cool {
-	flex: 1;
-	min-height: 4em;
-	min-width: 300px;
-	text-align: center;
-	word-wrap: normal;
-	// vertical-align: middle;
-}
-
-.light, .light > a > h2 {
-	color: #262626;
-	/*background-color: #eeeeee;*/
-	background-color: #f7f7f7;
-	/*min-width: 200px;*/
-}
-
-.dark, .dark > a > h2 {
-	color: #d9d9d9;
-	/*background-color: #111111;*/
-	background-color: #222222;
-	/*min-width: 200px;*/
 }

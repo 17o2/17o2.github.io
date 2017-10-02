@@ -6,13 +6,12 @@
 	<title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
 
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-	<link rel="stylesheet" href="/css/main.css">
+	{% if page.category == "professional" %}
+	<link rel="stylesheet" href="/css/main_dark.css">
+	{% else %}
+	<link rel="stylesheet" href="/css/main_light.css">
+	{% endif %}
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-	<!-- {% if page.category == "professional" %}
-	<style>
-		body {background-color: #1a1a1a; }
-	</style>
-	{% endif %} -->
 
 </head>
