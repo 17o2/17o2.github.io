@@ -1,5 +1,6 @@
 ---
 title: "CAD Art"
+date: 0100-01-01
 category: personal
 subcategory: designart
 image: "cadart.png"

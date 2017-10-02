@@ -1,6 +1,6 @@
 ---
 title: "Custom Bike Paintjob"
-date: 2000-01-01
+date: 0300-01-01
 category: personal
 subcategory: designart
 image: "bikepaintjob.jpg"

@@ -1,7 +1,8 @@
 ---
-title: Fun
+title: Projects for fun
+shorttitle: Fun
 permalink: /fun/
 category: personal
 ---
 
-Fun
+{% include projectgallery.html subcategory="fun" %}

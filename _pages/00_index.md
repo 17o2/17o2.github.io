@@ -30,7 +30,6 @@ layout: default
 
 </article>
 
-
 <article class="bubble">
 <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;">
 {% for thing in site.data.contact %}
@@ -39,4 +38,10 @@ layout: default
 </div>
 {% endfor %}
 </div>
+</article>
+
+<article class="bubble">
+<center>
+<img src="/projectimages/bc_hires.png" style="width:400px;max-width:100%">
+</center>
 </article>

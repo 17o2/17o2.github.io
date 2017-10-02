@@ -62,7 +62,8 @@ collections:
   projects:
     output: true
     permalink: /:collection/:name
-  # - academic
+  academic:
+    output: false
 
 
 # Exclude from processing.
