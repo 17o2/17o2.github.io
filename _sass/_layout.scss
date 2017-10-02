@@ -1,12 +1,16 @@
 body {
-	margin-left: 4em;
-	margin-right: 4em;
 	color: $font-color;
 	font-family: $font-style;
 	font-size: 1.1em;
 	// line-height: 1.6;
 	-webkit-font-smoothing: antialiased;
 	// max-width: 800px;
+}
+@media (min-width: 600px) {
+	body {
+		margin-left: 4em;
+		margin-right: 4em;
+	}
 }
 h1 {
 	text-align: right;
