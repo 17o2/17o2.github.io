@@ -1,9 +1,9 @@
-- name: Hackaday.io
-  link: https://hackaday.io/formatc1702
-  icon: rocket
 - name: GitHub
   link: https://github.com/formatc1702
   icon: github
+- name: Hackaday.io
+  link: https://hackaday.io/formatc1702
+  icon: rocket
 - name: AngelList
   link: https://angel.co/formatc1702
   icon: angellist

@@ -1,5 +1,5 @@
 ---
-title: Academic work
+title: Academic Work
 shorttitle: Academic
 category: personal
 permalink: /academic/

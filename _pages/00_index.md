@@ -9,10 +9,12 @@ layout: default
     <a href="/personal"><h2>Personal work</h2></a>
     <div style="text-align:left;">
     <ul>
-    <li> <a href="/engineering/">Projects</a> </li>
-    <li> <a href="/designart/">Design & Art</a> </li>
-    <li> <a href="/academic/">Academic</a> </li>
-    <li> <a href="/fun/">Fun</a> </li>
+    {% assign subcats = site.pages | where:"category","personal" %}
+    {% for eachpage in subcats %}
+    {% if forloop.first == false %}
+    <li><a href="{{ eachpage.permalink }}">{{ eachpage.title }}</a></li>
+    {% endif %}
+    {% endfor %}
     </ul>
     </div>
   </div>
@@ -21,9 +23,12 @@ layout: default
     <a href="/professional"><h2>Professional work</h2></a>
     <div style="text-align:left;">
     <ul>
-    <li> <a href="/freelance/">Showcase</a> </li>
-    <li> <a href="/references/">Rererences</a> </li>
-    <li> <a href="/hireme/">Hire me</a> </li>
+    {% assign subcats = site.pages | where:"category","professional" %}
+    {% for eachpage in subcats %}
+    {% if forloop.first == false %}
+    <li><a href="{{ eachpage.permalink }}">{{ eachpage.title }}</a></li>
+    {% endif %}
+    {% endfor %}
     </ul>
     </div>
   </div>

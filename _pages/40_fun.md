@@ -1,5 +1,5 @@
 ---
-title: Projects for fun
+title: Projects for Fun
 shorttitle: Fun
 permalink: /fun/
 category: personal
