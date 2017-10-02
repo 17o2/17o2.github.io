@@ -1,15 +1,17 @@
 ---
-title: Academic Projects
+title: Academic work
+shorttitle: Academic
+category: personal
 permalink: /academic/
 ---
 
 {% for project in site.academic %}
 
 ## {{project.title}}
+### {{ project.summary }}
 {% if project.image %}
 <img src="{{project.image}}" height="200" />
 {% endif %}
-### {{ project.summary }}
 
 <!-- <a href="{{ project.download }}">Download</a> -->
 

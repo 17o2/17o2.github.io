@@ -17,7 +17,7 @@ title: Daniel Rojas
 email: webmaster@danielrojas.net
 description: >- # this means to ignore newlines until "baseurl:"
   Daniel Rojas - Engineer by training, maker by heart
-baseurl: "/formatc1702.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://danielrojas.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  formatc1702
 
@@ -43,14 +43,26 @@ defaults:
       layout: page
   -
     scope:
-      path: "_assets/images"
+      path: '_projects'
+    values:
+      layout: project
+  -
+    scope:
+      path: 'projectimages'
     values:
       image: true
+  # -
+  #   scope:
+  #     path: "_assets/images"
+  #   values:
+  #     image: true
 
 # from https://jekyllrb.com/docs/collections/
 collections:
-  - projects
-  - academic
+  projects:
+    output: true
+    permalink: /:collection/:name
+  # - academic
 
 
 # Exclude from processing.

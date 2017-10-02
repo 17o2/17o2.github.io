@@ -1,0 +1,32 @@
+{% assign sorted_projects = site.projects | sort: 'date' | reverse %}
+
+<div style="display:flex;flex-wrap: wrap">
+
+{% for project in sorted_projects %}
+{% if project.subcategory == include.subcategory %}
+
+<div style="flex: 1;text-align:center;padding-left:1em;padding-right:1em;padding-top:0em;padding-bottom:0em;">
+
+<a href="{{ project.url }}">
+{% if project.image %}
+<div style="padding-top:2em"><img src="{{ site.baseurl }}projectimages/{{ project.image }}" height="400" class="project-image" /></div>
+{% endif %}
+<h2>{{project.title}}</h2>
+</a>
+<div style="letter-spacing:0.25em;">
+{% if project.github %}<a href="{{project.github}}"><i class='fa fa-github fa-2x'></i></a>{% endif %}
+{% if project.hackaday %}<a href="{{project.hackaday}}"><i class='fa fa-rocket fa-2x'></i></a>{% endif %}
+{% if project.youtube %}<a href="{{project.youtube}}"><i class='fa fa-youtube-play fa-2x'></i></a>{% endif %}
+{% if project.link %}<a href="{{project.link}}"><i class='fa fa-external-link fa-2x'></i></a>{% endif %}
+</div>
+<div>{{ project.summary }}</div>
+<!-- {% if project.description and false %}
+<p>{{project.description}}</p>
+{% endif %} -->
+
+</div>
+
+{% endif %}
+{% endfor %}
+
+</div>

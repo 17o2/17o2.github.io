@@ -7,14 +7,19 @@
 
 <!-- <aside>
 	<div class="container"> -->
+	{% if page.title %}
 		<nav>
-			<a href="{{ site.baseurl }}/">Home</a>
-				{% for page in site.pages %} {% if page.title %}
-				&middot; <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+			<a href="{{ site.baseurl }}">Home</a>
+				{% for eachpage in site.pages %} {% if eachpage.title and eachpage.category == page.category %}
+				&middot; <a href="{{ eachpage.url }}">{% if eachpage.shorttitle %}{{ eachpage.shorttitle }}{% else %}{{ eachpage.title }}{% endif %}</a>
 				{% endif %}
 				{% endfor %}
-			</li>
-			</ul>
+				{% if page.category == "personal" %}
+				&middot; <a href="{{ "/freelance" }}"> PROFESSIONAL </a>
+				{% else if page.category == "professional" %}
+				&middot; <a href="{{ "/index" }}"> PERSONAL </a>
+				{% endif %}
 		</nav>
+		{% endif %}
 	<!-- </div>
 </aside> -->

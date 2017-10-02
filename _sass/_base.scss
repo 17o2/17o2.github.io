@@ -3,7 +3,7 @@ $main: #E34234;
 $font-style: 'osifont', monospace;
 $font-color: #262626;
 $link-color: #BD1D0F;
-$shade1: #00ff00;
+$shade1: #666666;
 $shade2: #888888;
 $link-hover-color: $main;
 $heading-font-color: $font-color;
@@ -23,7 +23,8 @@ $heading-font: $font-style;
 	text-decoraton: none;
 }
 
-.title > a {
+.title > a,
+.title > a:hover {
 	color: $shade1;
 	text-decoraton: none;
 }
@@ -34,4 +35,45 @@ $heading-font: $font-style;
 
 .abstract {
 	text-align: justify;
+}
+
+// border-style: solid;
+// border-width: 1px;
+// border-color: #c0c0c0;
+// border-radius: 10px;
+// background-color: #f9f9f9;
+// padding: 1em;
+
+.coolcontainer {
+	display: flex;
+	flex-wrap:wrap;
+	overflow: hidden;
+	padding: 0px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #c0c0c0;
+	border-radius: 10px;
+	margin-bottom: 1em;
+}
+
+.cool {
+	flex: 1;
+	min-height: 4em;
+	min-width: 300px;
+	text-align: center;
+	// vertical-align: middle;
+}
+
+.light {
+	color: #262626;
+	/*background-color: #eeeeee;*/
+	background-color: #f7f7f7;
+	/*min-width: 200px;*/
+}
+
+.dark {
+	color: #d9d9d9;
+	/*background-color: #111111;*/
+	background-color: #222222;
+	/*min-width: 200px;*/
 }
