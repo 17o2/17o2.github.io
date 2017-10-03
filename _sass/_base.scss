@@ -1,5 +1,11 @@
+@font-face {
+  font-family: 'osifont_web';
+  src: url('/osifont.ttf') format('truetype');
+}
+
+
 $content-width: 800px;
-$font-style:    'osifont', monospace;
+$font-style:    'osifont','osifont_web',monospace;
 $color-dark:       #262626;
 $color-light:      #f7f7f7;
 $link-light:       #bd1d0f;
