@@ -1,5 +1,5 @@
 ---
-title: Professional projects
+title: Professional work
 shorttitle: Professional
 category: professional
 permalink: /professional/
