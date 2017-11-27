@@ -3,6 +3,7 @@ name: "Dustin Jefferson Onghanseng"
 company: "uHoo"
 role: "CEO & Co-Founder"
 website: "https://uhooair.com/"
+image: "uhoo.png"
 text: >
   I worked with Daniel on two occasions. First was designing the first prototype of an air sensor. Second was during a 24-hour hackathon in building the first prototype of what uHoo is today.
 
