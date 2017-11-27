@@ -1,7 +1,7 @@
 ---
 title: "Student Research Project / Studienarbeit"
 image: "sa.png"
-download: "danielrojas_sa_300dpi"
+download: "danielrojas_sa_300dpi.pdf"
 summary: "Development of a scale model automatic storage and retrieval machine based on the principle of the inverted pendulum"
 location: >
   Institute for Material Handling and Logistics,

@@ -1,7 +1,7 @@
 ---
 title: "Diploma Thesis / Diplomarbeit"
 image: "da.png"
-download: "danielrojas_da_300dpi"
+download: "danielrojas_da_300dpi.pdf"
 summary: "Development of a jumping robot using soft pneumatic actuators"
 location: >
   Department of Mechanical and Aerospace Engineering,
