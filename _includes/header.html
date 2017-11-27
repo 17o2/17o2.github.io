@@ -29,12 +29,12 @@
 				{% endif %}
 				{% endfor %}
 
-			</td>
-			<td align="right">
+			<!-- </td>
+			<td align="right"> -->
 				{% if page.category == "personal" %}
-				<a href="{{ "/professional" }}"> PROFESSIONAL </a>
+				| <a href="{{ "/professional" }}"> Professional </a>
 				{% else if page.category == "professional" %}
-				<a href="{{ "/personal" }}"> PERSONAL </a>
+				| <a href="{{ "/personal" }}"> Personal </a>
 				{% endif %}
 			</td>
 		</tr>
