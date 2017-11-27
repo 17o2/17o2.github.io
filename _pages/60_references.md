@@ -21,5 +21,10 @@ category: professional
 </article>
 
 </div>
+<hr>
 </center>
 {% endfor %}
+
+<center>
+<h2><a href="/professional/hireme/">Hire me!</a></h2>
+</center>
