@@ -5,4 +5,4 @@ permalink: /professional/showcase/
 category: professional
 ---
 
-Work Showcase
+This area is still under construction. In the meantime, please check out my <a href="/personal/engineering/">personal projects</a>!
