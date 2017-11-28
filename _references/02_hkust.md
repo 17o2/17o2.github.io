@@ -3,7 +3,7 @@ name: "Feng Ni &middot; 倪枫"
 company: "HKUST"
 role: "PhD candidate"
 website: "http://www.ust.hk/"
-# image:
+image: "hkust.png"
 text: >
   <p>Daniel was my partner at the HKUST robotics lab. He is a talented engineer and very helpful as a team member. He is able to quickly validate an idea and learn any necessary skill to execute it. He has a wide and solid skillset and broad vision. He has worked with leading edge scientists in robotics and with his contribution, our team published a paper in ICRA 2015.</p>
 
