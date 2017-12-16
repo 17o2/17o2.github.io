@@ -30,11 +30,12 @@ category: professional
 
 ## Other skills
 
-* Languages
-	* English
-	* German
-	* Spanish
-	* Japanese (JLPT N2 / CEFR B2)
+### Languages
+
+* German (native)
+* Spanish (native)
+* English (full working proficiency)
+* Japanese (JLPT N2 / CEFR B2)
 
 ## Professional profiles
 
