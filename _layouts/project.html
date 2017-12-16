@@ -25,6 +25,7 @@ layout: default
   </div>
 
 {% if page.category %}
+  <hr />
   Category:   {% if page.category == "personal" %}<a href="/personal">Personal projects</a>{% else %}Unclassified{% endif %}
   {% if page.subcategory %}
     {% case page.subcategory %}
