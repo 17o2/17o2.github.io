@@ -30,6 +30,37 @@ category: professional
 
 ## Other skills
 
+### Software
+
+* Mechanical CAD
+  * SolidWorks
+  * Fusion 360
+  * Solid Edge
+  * Pro/Engineer &#124; Creo
+  * PTC Windchill (PDM)
+* Electrical CAD
+  * EAGLE
+  * Altium Designer
+* Programming
+  * Python
+  * C for microcontrollers (Arduino)
+  * MicroPython for microcontrollers (ESP8266)
+  * Processing
+  * Git (version control)
+  * HALCON &#124; HDevelop (machine vision)
+* Science
+  * MAPLE
+  * Matlab &#124; Simulink
+  * ANSYS
+* Web
+  * HTML &#124; CSS &#124; JavaScript &#124; PHP
+* Graphics
+  * Inkscape
+  * Gimp
+  * Adobe Illustrator
+* Office
+  * Microsoft Word &#124; Excel &#124; PowerPoint
+
 ### Languages
 
 * German (native)
