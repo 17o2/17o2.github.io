@@ -25,6 +25,6 @@ category: professional
 </center>
 {% endfor %}
 
-<center>
+<!-- <center>
 <h2><a href="/professional/hireme/">Hire me!</a></h2>
-</center>
+</center> -->
