@@ -43,7 +43,7 @@ category: professional
   * Altium Designer
 * Programming
   * Python
-  * C for microcontrollers (Arduino)
+  * C/C++ for microcontrollers (Arduino)
   * MicroPython for microcontrollers (ESP8266)
   * Processing
   * Git (version control)
