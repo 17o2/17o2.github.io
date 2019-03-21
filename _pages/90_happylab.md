@@ -1,7 +1,7 @@
 ---
 title: Daniel Rojas × Happylab Berlin
 permalink: /happylab/
-category: other
+category: invisible
 ---
 <h2>Aktuelle Termine</h2>
 Na dit is ja schnieke!
