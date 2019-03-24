@@ -23,7 +23,9 @@
 				&middot;
 				{% endif %}
 				{% endfor %}
-				{% endif %}
+			{% else %}
+					<a href="{{ page.url }}">{{ page.shorttitle }}</a>
+			{% endif %}
 
 			{% if page.category != "personal" %}
 			| <a href="{{ "/personal" }}"> Personal </a>
