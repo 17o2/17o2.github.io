@@ -9,7 +9,7 @@ Hier geht es zu den [allgemeinen Infos zu den Workshops](/happylab).
 
 ## Inhalt der Workshops
 
-### A. 📐 2D-Konstruktion
+### A. 📐 2D-Konstruktion - [🎟 Tickets!](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199)
 * Einführung in Fusion 360
 * Skizzen, Bemaßungen, Beziehungen
 * Variablen und Formeln
@@ -21,7 +21,7 @@ Keine Vorkenntnisse notwendig! 😃
 
 ---
 
-### B. ⚙️ 3D-Konstruktion
+### B. ⚙️ 3D-Konstruktion - [🎟 Tickets!](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-59287182559)
 * Körper, Constructive Solid Geometry (CSG)
 * Bohrungen, Ausschnitte, Radien und Fasen, ...
 * Reihenfolge von Operationen, Arbeiten mit der Design History Timeline
@@ -33,7 +33,7 @@ Notwendige Vorkenntnisse: 2D-Konstruktion (Workshop A)
 
 ---
 
-### C. 🔩 Baugruppen und Profi-Tools
+### C. 🔩 Baugruppen und Profi-Tools [🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)]
 * Baugruppen und Komponenten
 * Verbindungen und Gelenke
 * Messwerkzeuge, Querschnitte, Kollisionsanalyse,
@@ -44,7 +44,7 @@ Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshops A+B)
 
 ---
 
-### D. 📦 Blech, Papier und Karton in 3D
+### D. 📦 Blech, Papier und Karton in 3D [🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)]
 * Bauteile aus flachen Werkstoffen in 3D modellieren
 * Biegungen, Laschen, Falze, ...
 * in 2D abwickeln und Vorlagen für den Laser Cutter erstellen
@@ -55,7 +55,7 @@ Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshops A+B)
 
 ---
 
-### E. ✏️ Minikurs: Technische Zeichnungen (Basics)
+### E. ✏️ Minikurs: Technische Zeichnungen (Basics) [🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)]
 * Zeichnungsanischten
 * Bemaßungen
 * Schnitte
@@ -64,7 +64,7 @@ Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshops A+B)
 
 ---
 
-### F. 🔧 Technische Zeichnungen (Advanced)
+### F. 🔧 Technische Zeichnungen (Advanced) [🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)]
 * Form- und Lagetoleranzen
 * Oberflächen
 * Norm-, fertigungs- und prüfgerechtes Zeichnen
