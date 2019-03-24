@@ -4,12 +4,14 @@ shorttitle: Happylab Berlin
 permalink: /happylab/
 category: invisible
 ---
-## Aktuelle Informationsn
+## Aktuelle Termine und Ankündigungen
 
-* [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253)
+Es läuft eine [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253) darüber, welche Workshops es in Zukunft noch geben soll!
 
-* [Termin 1](http://google.com)
-* [Termin 2](http://bing.com)
+* XX.XX.2019 - Fusion 360: 2D-Konstruktion
+  * [Platz reservieren!](http://google.com)
+* XX.XX.2019 - Fusion 360: 3D-Konstruktion
+  * [Platz reservieren!](http://google.com)
 
 ## Infos
 
