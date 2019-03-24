@@ -10,12 +10,26 @@ Es läuft eine [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253) darüber, welch
 
 * XX.XX.2019 - Fusion 360: 2D-Konstruktion
   * [Platz reservieren!](http://google.com)
+  * Keine Vorkenntnisse notwendig!
 * XX.XX.2019 - Fusion 360: 3D-Konstruktion
   * [Platz reservieren!](http://google.com)
+  * Notwendige Vorkenntnisse: 2D-Konstruktion
 
 ## Infos
 
+Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/details).
 
+### Allgemein
+* immer Samstags, von 10:00 bis 14:30 (inkl. 30 min Pause)
+* max. 10 Teilnehmer pro Termin
+*
+
+### Inhalt der Workshops
+
+### Preise
+
+* Normal: EUR 55
+* Ermäßigt: EUR 35 (Schüler/Studenten/Azubis/Arbeitslose)
 
 ## Vergangene Termine
 
