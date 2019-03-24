@@ -5,28 +5,25 @@ permalink: /happylab/
 category: invisible
 ---
 
-## Aktuelle Termine und Ankündigungen
+## Aktuelles
 
-⚠️ Es läuft eine [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253) darüber, welche Workshops es in Zukunft noch geben soll!
+⚠️ Es läuft eine [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253) darüber,
+welche neuen Workshops in Zukunft angeboten werden sollen!
 
-* *XX.XX.2019 - Fusion 360: A. 📐 2D-Konstruktion*
-  * [Tickets](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
+* *13.04.2019 - Fusion 360: A. 📐 2D-Konstruktion*
+  * [🎫 Tickets](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
+  * [Details](/happylab/details)
   * Preis: EUR 55 Standard / EUR 45 (Schüler/Student/Azubi/Arbeitslos)
   * Keine Vorkenntnisse notwendig!
-* *XX.XX.2019 - Fusion 360: B. ⚙️ 3D-Konstruktion*
-  * [Tickets](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-59287182559?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
+* *27.04.2019 - Fusion 360: B. ⚙️ 3D-Konstruktion*
+  * [🎫 Tickets](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-59287182559?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
+  * [Details](/happylab/details)
   * Preis: EUR 55 Standard / EUR 45 (Schüler/Student/Azubi/Arbeitslos)
   * 30% Ermäßigung beim Buchen von beiden Workshops!
      * Nach dere Buchung von Workshop A erhälst du einen Promo-Code, der bei der Buchung von Workshop B eingelöst werden kann.
   * Notwendige Vorkenntnisse: 2D-Konstruktion
 
-## Infos
-
-### Einführung
-
-Lerne, einfache und komplexe Projekte mithilfe mächtiger Werkzeuge umzusetzen!
-Erstelle Vorlagen für den Lasercutter (DXF), den 3D-Drucker (STL) oder die Fräse!
-Lasse deiner Fantasie freien Lauf!
+## Einführung
 
 > * Du hast tausend coole Projektideen, dir fehlen aber die Kenntnisse, sie umzusetzen?
 > * Zeichnen auf Papier klappt ganz gut, aber der Lasercutter braucht mehr als nur Gekritzel?
@@ -35,6 +32,12 @@ Lasse deiner Fantasie freien Lauf!
 > * Du möchtest den Sprung von 2D auf 3D wagen?
 > * Du liebst 3D-Druck, willst aber nicht immer nur Dinge von Thingiverse kopieren?
 > * Du bist frustriert mit Anfänger-Tools wie SketchUp oder TinkerCAD?
+
+Lerne, einfache und komplexe Projekte mithilfe mächtiger Werkzeuge umzusetzen!
+Erstelle Vorlagen für den Lasercutter (DXF), den 3D-Drucker (STL) oder die Fräse!
+Lasse deiner Fantasie freien Lauf!
+
+## Infos
 
 ### Workshopinhalte
 
@@ -48,10 +51,11 @@ Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/deta
 * max. 10 Teilnehmer pro Termin
 * Sprache der Workshops: deutsch
 * Mitzubringen:
-  * Laptop (PC/Mac)
-  * Fusion 360 vorinstalliert, und Autodesk-Account erstellt -> [Download](https://www.autodesk.de/products/fusion-360/overview)
-  * Eine externe Maus mit 3 Tasten (CAD mit Touchpad nervt!)
+  * Laptop (PC/Mac) mit WLAN
+  * Fusion 360 vorinstalliert, und Autodesk-Account erstellt -> [Download](https://www.autodesk.de/products/fusion-360/overview) (Wichtig! Wir wollen keine Zeit verlieren!)
+  * Eine externe Maus mit 3 Tasten oder klickbarem Scrollrad (CAD mit Touchpad nervt!)
   * Verpflegung für die Mittagspause
+  * Projektideen zum Realisieren
 
 ### 💶 Preise
 
