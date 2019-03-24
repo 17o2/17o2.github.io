@@ -19,7 +19,7 @@ welche neuen Workshops in Zukunft angeboten werden sollen! [Sag uns deine Meinun
   * [Tickets 🎟](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-59287182559)
   * [Details 🔍](/happylab/details)
   * Preis: EUR 60 (Standard) / EUR 45 (Schüler/Student/Azubi/Arbeitslos)
-  * 30% Ermäßigung beim Buchen von beiden Workshops!
+  * 30% Ermäßigung, wenn du bereits Workshop A gebucht hast!
      * Nach der Buchung von Workshop A erhälst du einen Promo-Code, der bei der Buchung von Workshop B eingelöst werden kann.
   * Notwendige Vorkenntnisse: 2D-Konstruktion (Workshop A)
 
