@@ -35,9 +35,20 @@ welche neuen Workshops in Zukunft zusätzlich angeboten werden sollen! [Sag uns 
 > * Du liebst 3D-Druck, willst aber nicht immer nur Dinge von Thingiverse kopieren?
 > * Du bist frustriert mit Anfänger-Tools wie SketchUp oder TinkerCAD?
 
-Fusion 360 ist eine benutzerfreundliche und gleichzeitig mächtige CAD-Software, mit der du einfache und komplexe Projekte umsetzen kannst!
-Erstelle Vorlagen für den Lasercutter (DXF), den 3D-Drucker (STL) oder die Fräse!
-Lasse deiner Fantasie freien Lauf!
+Fusion 360 ist eine benutzerfreundliche und gleichzeitig mächtige CAD-Software, mit der du einfache und komplexe Projekte umsetzen kannst! Lasse deiner Fantasie freien Lauf!
+
+* Modelliere deine Erfindungen, so einfach oder so detailiert, wie du willst!
+* Erstelle Vorlagen für den Lasercutter (DXF), den 3D-Drucker (STL) oder die Fräse!
+* Lerne, wie du auch komplizierte Bauteile problemlos erstellst und modifizierst.
+* Du wirst die wichtigsten Funktionen nicht nur entdecken, sondern wirklich lernen und verstehen.
+* Der gekonnte Umgang mit professioneller 2D- und 3D-CAD-Software ist *ein Muss für jeden Hacker und Maker!*
+
+* Die Workshops haben eine logische Struktur und ein angemessenes Tempo, auch für Anwender ohne Vorkenntnisse.
+* Die begrenzte Teilnehmeranzahl pro Termin (max. 10 Personen) erlaubt eine ideale Betreuung.
+* Alle wesentlichen Funktionen werden nicht nur vorgeführt, sondern verständlich und einprägsam erklärt.
+* Es werden verschiedene Lösungsansätze vorgestellt, und die jeweiligen Vor- und Nachteile erläutert.
+* Direktes Anwenden der erlernten Fähigkeiten durch projektbasierte Workshops führt zu einem tiefen Verständnis der Software.
+* Viele Kenntnisse aus dem Workshop lassen sich später ggf. auch auf andere CAD-Systeme (z.B. SolidWorks, Creo oder CATIA) übertragen.
 
 ---
 
