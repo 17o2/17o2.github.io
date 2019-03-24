@@ -7,8 +7,8 @@ category: invisible
 
 ## Aktuelles
 
-⚠️ Es läuft eine [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253) darüber,
-welche neuen Workshops in Zukunft angeboten werden sollen!
+⚠️ Es läuft eine Umfrage darüber,
+welche neuen Workshops in Zukunft angeboten werden sollen! [Wir brauchen deinen Input!](https://goo.gl/forms/UkmXidcZ80N0iU253)
 
 * *13.04.2019 - Fusion 360: A. 📐 2D-Konstruktion*
   * [Tickets 🎟](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199)
