@@ -76,6 +76,12 @@ Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/deta
 
 ---
 
+## Zum Workshop-Tutor
+
+[Daniel Rojas](http://danielrojas.net) ist Ingenieur für Maschinenbau und begeisterter Hacker und Maker. Er hat bereits viele erfolgreiche Workshops zu Themen wie 3D CAD, Elektronikentwicklung und Arduino geleitet, Vorträge gehalten (z.B. auf dem [Science Hack Day Berlin](http://berlin.sciencehackday.org/)) und mit Freunden aus der [Hackaday](http://hackaday.com)-Community auf der Maker Faire Berlin Projekte präsentiert.
+
+---
+
 ## Kontakt
 
 * Für Fragen und Anregungen zu den Workshops:
