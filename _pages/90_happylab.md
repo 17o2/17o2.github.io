@@ -1,6 +1,6 @@
 ---
 title: Daniel Rojas × Happylab Berlin
-shorttitle: Happylab Berlin
+shorttitle: Details
 permalink: /happylab/
 category: invisible
 ---

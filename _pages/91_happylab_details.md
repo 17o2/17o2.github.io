@@ -16,6 +16,7 @@ Hier geht es zu den [allgemeinen Infos zu den Workshops](/happylab).
 * “2,5D"-Konstruktion
 
 Projekt: Smartphone- / Tablet-Halter aus dem Laser Cutter
+Keine Vorkenntnisse notwendig! &#9786;
 
 ---
 
