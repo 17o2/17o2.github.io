@@ -5,19 +5,14 @@
      </a></h1>
 </header>
 
-<!-- <aside>
-	<div class="container"> -->
 	{% if page.title %}
 		<nav>
 			<table width="100%">
 				<tr>
 					<td align="left">
 						<a href="/">Home</a> |
-					<!-- </td>
-					<td align="left"> -->
 
-
-			<!-- <a href="/">Home</a> -->
+			{% if page.category != "invisible" %}
 				{% assign subcats = site.pages | where:"category",page.category" %}
 				{% for eachpage in subcats %}
 				<a href="{{ eachpage.url }}">{% if eachpage.shorttitle %}{{ eachpage.shorttitle }}{% else %}{{ eachpage.title }}{% endif %}</a>
@@ -28,9 +23,8 @@
 				&middot;
 				{% endif %}
 				{% endfor %}
+				{% endif %}
 
-			<!-- </td>
-			<td align="right"> -->
 			{% if page.category != "personal" %}
 			| <a href="{{ "/personal" }}"> Personal </a>
 			{% endif %}
@@ -41,8 +35,5 @@
 		</tr>
 	</table>
 
-
 		</nav>
 		{% endif %}
-	<!-- </div>
-</aside> -->
