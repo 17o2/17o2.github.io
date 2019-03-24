@@ -22,6 +22,8 @@ Keine Vorkenntnisse notwendig! &#9786;
 ---
 
 ### B. &#xFE0F; 3D-Konstruktion
+
+&#x2699; , &#xFE0F;
 * Körper, Constructive Solid Geometry (CSG)
 * Bohrungen, Ausschnitte, Radien und Fasen, ...
 * Reihenfolge von Operationen, Arbeiten mit der Design History Timeline
@@ -51,6 +53,9 @@ Projekt: TBA
 ---
 
 ### E. &#x270F; Minikurs: Technische Zeichnungen (Basics)
+
+ 	&#x270F; &#xFE0F;
+
 * Zeichnungsanischten
 * Bemaßungen
 * Schnitte
