@@ -33,7 +33,7 @@ Notwendige Vorkenntnisse: 2D-Konstruktion (Workshop A)
 
 ---
 
-### C. 🔩 Baugruppen und Profi-Tools [🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)]
+### C. 🔩 Baugruppen und Profi-Tools - 🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)
 * Baugruppen und Komponenten
 * Verbindungen und Gelenke
 * Messwerkzeuge, Querschnitte, Kollisionsanalyse,
@@ -44,7 +44,7 @@ Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshops A+B)
 
 ---
 
-### D. 📦 Blech, Papier und Karton in 3D [🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)]
+### D. 📦 Blech, Papier und Karton in 3D - 🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)
 * Bauteile aus flachen Werkstoffen in 3D modellieren
 * Biegungen, Laschen, Falze, ...
 * in 2D abwickeln und Vorlagen für den Laser Cutter erstellen
@@ -55,7 +55,7 @@ Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshops A+B)
 
 ---
 
-### E. ✏️ Minikurs: Technische Zeichnungen (Basics) [🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)]
+### E. ✏️ Minikurs: Technische Zeichnungen (Basics) - 🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)
 * Zeichnungsanischten
 * Bemaßungen
 * Schnitte
@@ -64,7 +64,7 @@ Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshops A+B)
 
 ---
 
-### F. 🔧 Technische Zeichnungen (Advanced) [🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)]
+### F. 🔧 Technische Zeichnungen (Advanced) - 🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)
 * Form- und Lagetoleranzen
 * Oberflächen
 * Norm-, fertigungs- und prüfgerechtes Zeichnen
