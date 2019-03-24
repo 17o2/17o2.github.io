@@ -9,7 +9,7 @@ Hier geht es zu den [allgemeinen Infos zu den Workshops](/happylab).
 
 ## Inhalt der Workshops
 
-### A. &#1F4D0; 2D-Konstruktion
+### A. &#x1F4D0; 2D-Konstruktion
 * Einführung in Fusion 360
 * Skizzen, Bemaßungen, Beziehungen
 * Variablen und Formeln
