@@ -27,13 +27,13 @@ welche neuen Workshops in Zukunft zusätzlich angeboten werden sollen! [Sag uns 
 
 ## Einführung
 
-> * Du hast tausend coole Projektideen, dir fehlen aber die Kenntnisse, sie umzusetzen?
-> * Zeichnen auf Papier klappt ganz gut, aber der Lasercutter braucht mehr als nur Gekritzel?
-> * Inkscape und CorelDraw sind zwar nett, aber nicht flexibel und “intelligent” genug?
-> * Du brauchst maßgenaue und trotzdem schnell anpassbare Bauteile?
-> * Du möchtest den Sprung von 2D auf 3D wagen?
-> * Du liebst 3D-Druck, willst aber nicht immer nur Dinge von Thingiverse kopieren?
-> * Du bist frustriert mit Anfänger-Tools wie SketchUp oder TinkerCAD?
+* Du hast tausend coole Projektideen, dir fehlen aber die Kenntnisse, sie umzusetzen?
+* Zeichnen auf Papier klappt ganz gut, aber der Lasercutter braucht mehr als nur Gekritzel?
+* Inkscape und CorelDraw sind zwar nett, aber nicht flexibel und “intelligent” genug?
+* Du brauchst maßgenaue und trotzdem schnell anpassbare Bauteile?
+* Du möchtest den Sprung von 2D auf 3D wagen?
+* Du liebst 3D-Druck, willst aber nicht immer nur Dinge von Thingiverse kopieren?
+* Du bist frustriert mit Anfänger-Tools wie SketchUp oder TinkerCAD?
 
 Fusion 360 ist eine benutzerfreundliche und gleichzeitig mächtige CAD-Software, mit der du einfache und komplexe Projekte umsetzen kannst! Lasse deiner Fantasie freien Lauf!
 
