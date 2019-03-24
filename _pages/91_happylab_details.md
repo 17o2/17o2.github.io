@@ -9,13 +9,14 @@ Hier geht es zu den [allgemeinen Infos zu den Workshops](/happylab).
 
 ## Inhalt der Workshops
 
-### A. 2D-Konstruktion
+### A. &#1F4D0; 2D-Konstruktion
 * Einführung in Fusion 360
 * Skizzen, Bemaßungen, Beziehungen
 * Variablen und Formeln
 * “2,5D"-Konstruktion
 
 Projekt: Smartphone- / Tablet-Halter aus dem Laser Cutter
+
 Keine Vorkenntnisse notwendig! &#9786;
 
 ---
@@ -27,6 +28,7 @@ Keine Vorkenntnisse notwendig! &#9786;
 * Konstruktionshilfen
 
 Projekt: Legomännchen
+
 
 ---
 
