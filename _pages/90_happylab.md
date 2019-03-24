@@ -53,8 +53,7 @@ Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/deta
   * Want workshops in English? [Let me know!](/happylab/poll)
 * Mitzubringen:
   * Laptop (PC/Mac) mit WLAN
-  * Fusion 360 vorinstalliert, und Autodesk-Account erstellt (Wichtig! Wir wollen keine Zeit verlieren!)
-    * [Download](https://www.autodesk.de/products/fusion-360/overview)
+  * [Fusion 360](https://www.autodesk.de/products/fusion-360/overview) vorinstalliert, und Autodesk-Account erstellt (Wichtig! Wir wollen keine Zeit verlieren!)
   * Eine externe Maus mit 3 Tasten oder klickbarem Scrollrad (CAD mit Touchpad nervt!)
   * Verpflegung für die Mittagspause
   * Projektideen zum Realisieren
