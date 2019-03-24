@@ -8,7 +8,7 @@ category: invisible
 ## Aktuelles
 
 ⚠️ Es läuft eine Umfrage darüber,
-welche neuen Workshops in Zukunft angeboten werden sollen! [Wir brauchen deinen Input!](/happylab/poll)
+welche neuen Workshops in Zukunft angeboten werden sollen! [Sag uns deine Meinung!](/happylab/poll)
 
 * *13.04.2019 - Fusion 360: A. 📐 2D-Konstruktion*
   * [Tickets 🎟](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199)
