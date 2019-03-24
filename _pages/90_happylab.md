@@ -35,7 +35,7 @@ welche neuen Workshops in Zukunft angeboten werden sollen!
 > * Du liebst 3D-Druck, willst aber nicht immer nur Dinge von Thingiverse kopieren?
 > * Du bist frustriert mit Anfänger-Tools wie SketchUp oder TinkerCAD?
 
-Lerne, einfache und komplexe Projekte mithilfe mächtiger Werkzeuge umzusetzen!
+Fusion 360 ist eine benutzerfreundliche und gleichzeitig mächtige CAD-Software, mit der du einfache und komplexe Projekte umsetzen kannst!
 Erstelle Vorlagen für den Lasercutter (DXF), den 3D-Drucker (STL) oder die Fräse!
 Lasse deiner Fantasie freien Lauf!
 
@@ -49,14 +49,16 @@ Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/deta
 
 ### ℹ️ Organisatorisches
 
-* Ort: HappyLab Berlin
+* Ort: [HappyLab Berlin](https://happylab.de/de_ber/home)
   Demminer Str. 3, 13355 Berlin
 * immer Samstags, von 10:00 bis 14:30 (inkl. 30 min Pause)
-* max. 10 Teilnehmer pro Termin
-* Sprache der Workshops: deutsch
+* max. 10 Teilnehmer pro Termin für optimale Betreuung
+* Sprache der Workshops: deutsch ()
+  * Want English workshops? [Let me know!](https://goo.gl/forms/UkmXidcZ80N0iU253)
 * Mitzubringen:
   * Laptop (PC/Mac) mit WLAN
-  * Fusion 360 vorinstalliert, und Autodesk-Account erstellt -> [Download](https://www.autodesk.de/products/fusion-360/overview) (Wichtig! Wir wollen keine Zeit verlieren!)
+  * Fusion 360 vorinstalliert, und Autodesk-Account erstellt (Wichtig! Wir wollen keine Zeit verlieren!)
+    * [Download](https://www.autodesk.de/products/fusion-360/overview)
   * Eine externe Maus mit 3 Tasten oder klickbarem Scrollrad (CAD mit Touchpad nervt!)
   * Verpflegung für die Mittagspause
   * Projektideen zum Realisieren
