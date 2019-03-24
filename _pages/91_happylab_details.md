@@ -29,6 +29,7 @@ Keine Vorkenntnisse notwendig! 😃
 
 Projekt: Legomännchen
 
+Notwendige Vorkenntnisse: 2D-Konstruktion (Workshop A)
 
 ---
 
@@ -39,6 +40,8 @@ Projekt: Legomännchen
 
 Projekt: Arduino-Gehäuse
 
+Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshop A+B)
+
 ---
 
 ### D. 📦 Blech, Papier und Karton in 3D
@@ -48,12 +51,16 @@ Projekt: Arduino-Gehäuse
 
 Projekt: TBA
 
+Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshop A+B)
+
 ---
 
 ### E. ✏️ Minikurs: Technische Zeichnungen (Basics)
 * Zeichnungsanischten
 * Bemaßungen
 * Schnitte
+
+Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshop A+B)
 
 ---
 
@@ -64,3 +71,5 @@ Projekt: TBA
 * Do's and Don't's aus der Industrie
 
 Für diejenigen, die Bauteile bei externen Fertigern in Auftrag geben wollen, oder besonders akkurate Dokumentation brauchen.
+
+Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion, Technische Zeichnungen (Basics) (Workshop A+B+E)
