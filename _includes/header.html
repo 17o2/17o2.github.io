@@ -24,7 +24,7 @@
 				{% endif %}
 				{% endfor %}
 			{% else %}
-					<a href="{{ page.url }}">{{ page.shorttitle }}</a>
+					<a href="{{ page.url }}">{% if eachpage.shorttitle %}{{ eachpage.shorttitle }}{% else %}{{ eachpage.title }}{% endif %}</a>
 			{% endif %}
 
 			{% if page.category != "personal" %}
