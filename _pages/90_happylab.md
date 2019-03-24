@@ -50,7 +50,7 @@ Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/deta
 * immer Samstags, von 10:00 bis 14:30 (inkl. 30 min Pause)
 * max. 10 Teilnehmer pro Termin, für optimale individuelle Betreuung
 * Sprache der Workshops: deutsch
-  * Want English workshops? [Let me know!](/happylab/poll)
+  * Want workshops in English? [Let me know!](/happylab/poll)
 * Mitzubringen:
   * Laptop (PC/Mac) mit WLAN
   * Fusion 360 vorinstalliert, und Autodesk-Account erstellt (Wichtig! Wir wollen keine Zeit verlieren!)
