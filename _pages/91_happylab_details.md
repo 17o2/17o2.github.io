@@ -9,7 +9,7 @@ Hier geht es zu den [allgemeinen Infos zu den Workshops](/happylab).
 
 ## Inhalt der Workshops
 
-### A. :triangular_ruler: 2D-Konstruktion
+### A. &#x1F4D0; 2D-Konstruktion
 * Einführung in Fusion 360
 * Skizzen, Bemaßungen, Beziehungen
 * Variablen und Formeln
@@ -21,7 +21,7 @@ Keine Vorkenntnisse notwendig! &#9786;
 
 ---
 
-### B. :gear: 3D-Konstruktion
+### B. &#xFE0F; 3D-Konstruktion
 * Körper, Constructive Solid Geometry (CSG)
 * Bohrungen, Ausschnitte, Radien und Fasen, ...
 * Reihenfolge von Operationen, Arbeiten mit der Design History Timeline
@@ -32,7 +32,7 @@ Projekt: Legomännchen
 
 ---
 
-### C. :nut_and_bolt: Baugruppen und Profi-Tools
+### C. &#x1F529; Baugruppen und Profi-Tools
 * Baugruppen und Komponenten
 * Verbindungen und Gelenke
 * Messwerkzeuge, Querschnitte, Kollisionsanalyse,
@@ -41,7 +41,7 @@ Projekt: Arduino-Gehäuse
 
 ---
 
-### D. :package: Blech, Papier und Karton in 3D
+### D. &#x1F4E6; Blech, Papier und Karton in 3D
 * Bauteile aus flachen Werkstoffen in 3D modellieren
 * Biegungen, Laschen, Falze, ...
 * in 2D abwickeln und Vorlagen für den Laser Cutter erstellen
@@ -50,14 +50,14 @@ Projekt: TBA
 
 ---
 
-### E. :pencil: Minikurs: Technische Zeichnungen (Basics)
+### E. &#x270F; Minikurs: Technische Zeichnungen (Basics)
 * Zeichnungsanischten
 * Bemaßungen
 * Schnitte
 
 ---
 
-### F. :wrench: Technische Zeichnungen (Advanced)
+### F. &#x1F527; Technische Zeichnungen (Advanced)
 * Form- und Lagetoleranzen
 * Oberflächen
 * Norm-, fertigungs- und prüfgerechtes Zeichnen
