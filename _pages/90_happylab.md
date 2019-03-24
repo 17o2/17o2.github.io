@@ -21,7 +21,7 @@ category: invisible
   * Notwendige Vorkenntnisse: 2D-Konstruktion (Workshop A)
 
 ⚠️ Es läuft eine Umfrage darüber,
-welche neuen Workshops in Zukunft zusätzlich angeboten werden sollen! [💭 Sag uns deine Meinung!](/happylab/poll)
+welche neuen Workshops in Zukunft zusätzlich angeboten werden sollen! [Sag uns deine Meinung! 🗯](/happylab/poll)
 
 ---
 
