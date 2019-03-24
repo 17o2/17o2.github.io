@@ -21,7 +21,7 @@ welche neuen Workshops in Zukunft angeboten werden sollen!
   * Preis: EUR 55 Standard / EUR 45 (Schüler/Student/Azubi/Arbeitslos)
   * 30% Ermäßigung beim Buchen von beiden Workshops!
      * Nach der Buchung von Workshop A erhälst du einen Promo-Code, der bei der Buchung von Workshop B eingelöst werden kann.
-  * Notwendige Vorkenntnisse: 2D-Konstruktion
+  * Notwendige Vorkenntnisse: 2D-Konstruktion (Workshop A)
 
 ---
 
@@ -53,7 +53,7 @@ Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/deta
   Demminer Str. 3, 13355 Berlin
 * immer Samstags, von 10:00 bis 14:30 (inkl. 30 min Pause)
 * max. 10 Teilnehmer pro Termin für optimale Betreuung
-* Sprache der Workshops: deutsch ()
+* Sprache der Workshops: deutsch
   * Want English workshops? [Let me know!](https://goo.gl/forms/UkmXidcZ80N0iU253)
 * Mitzubringen:
   * Laptop (PC/Mac) mit WLAN
