@@ -7,9 +7,6 @@ category: invisible
 
 ## Aktuelles
 
-⚠️ Es läuft eine Umfrage darüber,
-welche neuen Workshops in Zukunft angeboten werden sollen! [Sag uns deine Meinung!](/happylab/poll)
-
 * *13.04.2019 - Fusion 360: A. 📐 2D-Konstruktion*
   * [Tickets 🎟](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199)
   * [Details 🔍](/happylab/details)
@@ -22,6 +19,9 @@ welche neuen Workshops in Zukunft angeboten werden sollen! [Sag uns deine Meinun
   * 30% Ermäßigung, wenn du bereits Workshop A gebucht hast!
      * Nach der Buchung von Workshop A erhälst du einen Promo-Code, der bei der Buchung von Workshop B eingelöst werden kann.
   * Notwendige Vorkenntnisse: 2D-Konstruktion (Workshop A)
+
+⚠️ Es läuft eine Umfrage darüber,
+welche neuen Workshops in Zukunft zusätzlich angeboten werden sollen! [Sag uns deine Meinung!](/happylab/poll)
 
 ---
 
@@ -45,8 +45,8 @@ Lasse deiner Fantasie freien Lauf!
 
 Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/details).
 
-* Ort: [HappyLab Berlin](https://happylab.de/de_ber/home):
-  Demminer Str. 3, 13355 Berlin
+* Ort: [HappyLab Berlin](https://happylab.de/de_ber/home),
+  Demminer Str. 3, 13355 Berlin ([Karte🗺](https://goo.gl/maps/6sKdnXERwa32))
 * immer Samstags, von 10:00 bis 14:30 (inkl. 30 min Pause)
 * max. 10 Teilnehmer pro Termin, für optimale individuelle Betreuung
 * Sprache der Workshops: deutsch
