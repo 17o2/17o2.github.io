@@ -41,7 +41,7 @@ Lasse deiner Fantasie freien Lauf!
 
 ---
 
-## ℹ️ Infos
+## Infos
 
 Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/details).
 
