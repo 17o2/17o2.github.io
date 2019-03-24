@@ -7,12 +7,12 @@ category: invisible
 
 ## Aktuelle Termine und Ankündigungen
 
-Es läuft eine [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253) darüber, welche Workshops es in Zukunft noch geben soll!
+⚠️ Es läuft eine [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253) darüber, welche Workshops es in Zukunft noch geben soll!
 
-* *XX.XX.2019 - Fusion 360: 2D-Konstruktion*
+* *XX.XX.2019 - Fusion 360: 📐 2D-Konstruktion*
   * [Platz reservieren!](http://google.com)
   * Keine Vorkenntnisse notwendig!
-* *XX.XX.2019 - Fusion 360: 3D-Konstruktion*
+* *XX.XX.2019 - Fusion 360: ⚙️ 3D-Konstruktion*
   * [Platz reservieren!](http://google.com)
   * Notwendige Vorkenntnisse: 2D-Konstruktion
 
@@ -20,7 +20,7 @@ Es läuft eine [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253) darüber, welch
 
 Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/details).
 
-### Allgemein
+### ℹ️ Allgemein
 
 * Ort: HappyLab Berlin
   Demminer Str. 3, 13355 Berlin
@@ -29,16 +29,16 @@ Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/deta
 * Sprache der Workshops: deutsch
 * Verpflegung für die Pause bitte selbst organisieren
 
-### Preise
+### 💶 Preise
 
 * Normal: EUR 55
 * Ermäßigt: EUR 40 (Schüler/Studenten/Azubis/Arbeitslose)
 
 ## Vergangene Termine
 
-* 24.02.2018 - Fusion 360: 2D-Konstruktion
-* 03.03.2018 - Fusion 360: 3D-Konstruktion
-* 10.03.2018 - Fusion 360: Baugruppen und Profi-Tools
+* 24.02.2018 - Fusion 360: 📐 2D-Konstruktion
+* 03.03.2018 - Fusion 360: ⚙️ 3D-Konstruktion
+* 10.03.2018 - Fusion 360: 🔩 Baugruppen und Profi-Tools
 
 ## Kontakt
 
