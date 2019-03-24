@@ -4,11 +4,11 @@ shorttitle: Happylab Berlin
 permalink: /happylab/
 category: invisible
 ---
-<h2>Aktuelle Termine</h2>
-Na dit is ja schnieke!
-shorttitle: Personal
+##Aktuelle Informationsn
 
-<hr>
+* Umfrage
+* [Termin 1](http://google.com)
+* Termin 2
 
-<h2>Umfrage!</h2>
+##Umfrage!
 kiek ma!
