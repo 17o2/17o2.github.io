@@ -9,11 +9,15 @@ category: invisible
 
 ⚠️ Es läuft eine [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253) darüber, welche Workshops es in Zukunft noch geben soll!
 
-* *XX.XX.2019 - Fusion 360: 📐 2D-Konstruktion*
-  * [Platz reservieren!](http://google.com)
+* *XX.XX.2019 - Fusion 360: A. 📐 2D-Konstruktion*
+  * [Tickets](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
+  * Preis: EUR 55 Standard / EUR 40 (Schüler/Student/Azubi/Arbeitslos)
   * Keine Vorkenntnisse notwendig!
-* *XX.XX.2019 - Fusion 360: ⚙️ 3D-Konstruktion*
-  * [Platz reservieren!](http://google.com)
+* *XX.XX.2019 - Fusion 360: B. ⚙️ 3D-Konstruktion*
+  * [Tickets](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-59287182559?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
+  * Preis: EUR 55 Standard / EUR 40 (Schüler/Student/Azubi/Arbeitslos)
+  * 30% Ermäßigung beim Buchen von beiden Workshops!
+     * Nach dere Buchung von Workshop A erhälst du einen Promo-Code, der bei der Buchung von Workshop B eingelöst werden kann. 
   * Notwendige Vorkenntnisse: 2D-Konstruktion
 
 ## Infos

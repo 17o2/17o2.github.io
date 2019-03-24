@@ -40,7 +40,7 @@ Notwendige Vorkenntnisse: 2D-Konstruktion (Workshop A)
 
 Projekt: Arduino-Gehäuse
 
-Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshop A+B)
+Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshops A+B)
 
 ---
 
@@ -51,7 +51,7 @@ Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshop A+B)
 
 Projekt: TBA
 
-Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshop A+B)
+Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshops A+B)
 
 ---
 
@@ -60,7 +60,7 @@ Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshop A+B)
 * Bemaßungen
 * Schnitte
 
-Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshop A+B)
+Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshops A+B)
 
 ---
 
@@ -72,4 +72,4 @@ Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshop A+B)
 
 Für diejenigen, die Bauteile bei externen Fertigern in Auftrag geben wollen, oder besonders akkurate Dokumentation brauchen.
 
-Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion, Technische Zeichnungen (Basics) (Workshop A+B+E)
+Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion, Technische Zeichnungen (Basics) (Workshops A+B+E)
