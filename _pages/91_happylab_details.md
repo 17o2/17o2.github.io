@@ -73,3 +73,13 @@ Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion (Workshops A+B)
 Für diejenigen, die Bauteile bei externen Fertigern in Auftrag geben wollen, oder besonders akkurate Dokumentation brauchen.
 
 Notwendige Vorkenntnisse: 2D- und 3D-Konstruktion, Technische Zeichnungen (Basics) (Workshops A+B+E)
+
+---
+
+### X. 🔌 Schaltungsdesign und Platinenlayout mit EAGLE - 🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)
+* Entwerfen von Schaltplänen
+* Erstellen von Platinenlayouts aus dem Schaltplan
+* Tips & Tricks
+* Hinweise für die Online-Bestellung von Platinen
+
+Notwendige Vorkenntnisse: Elektronik-Grundkenntnisse
