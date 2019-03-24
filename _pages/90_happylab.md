@@ -8,7 +8,7 @@ category: invisible
 ## Aktuelles
 
 ⚠️ Es läuft eine Umfrage darüber,
-welche neuen Workshops in Zukunft angeboten werden sollen! [Wir brauchen deinen Input!](https://goo.gl/forms/UkmXidcZ80N0iU253)
+welche neuen Workshops in Zukunft angeboten werden sollen! [Wir brauchen deinen Input!](/happylab/poll)
 
 * *13.04.2019 - Fusion 360: A. 📐 2D-Konstruktion*
   * [Tickets 🎟](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199)
@@ -45,12 +45,12 @@ Lasse deiner Fantasie freien Lauf!
 
 Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/details).
 
-* Ort: [HappyLab Berlin](https://happylab.de/de_ber/home)
+* Ort: [HappyLab Berlin](https://happylab.de/de_ber/home):
   Demminer Str. 3, 13355 Berlin
 * immer Samstags, von 10:00 bis 14:30 (inkl. 30 min Pause)
-* max. 10 Teilnehmer pro Termin für optimale Betreuung
+* max. 10 Teilnehmer pro Termin, für optimale individuelle Betreuung
 * Sprache der Workshops: deutsch
-  * Want English workshops? [Let me know!](https://goo.gl/forms/UkmXidcZ80N0iU253)
+  * Want English workshops? [Let me know!](/happylab/poll)
 * Mitzubringen:
   * Laptop (PC/Mac) mit WLAN
   * Fusion 360 vorinstalliert, und Autodesk-Account erstellt (Wichtig! Wir wollen keine Zeit verlieren!)
