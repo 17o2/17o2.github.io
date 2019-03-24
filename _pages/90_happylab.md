@@ -9,10 +9,10 @@ category: invisible
 
 Es läuft eine [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253) darüber, welche Workshops es in Zukunft noch geben soll!
 
-* XX.XX.2019 - Fusion 360: 2D-Konstruktion
+* *XX.XX.2019 - Fusion 360: 2D-Konstruktion*
   * [Platz reservieren!](http://google.com)
   * Keine Vorkenntnisse notwendig!
-* XX.XX.2019 - Fusion 360: 3D-Konstruktion
+* *XX.XX.2019 - Fusion 360: 3D-Konstruktion*
   * [Platz reservieren!](http://google.com)
   * Notwendige Vorkenntnisse: 2D-Konstruktion
 
