@@ -4,6 +4,7 @@ shorttitle: Happylab Berlin
 permalink: /happylab/
 category: invisible
 ---
+
 ## Aktuelle Termine und Ankündigungen
 
 Es läuft eine [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253) darüber, welche Workshops es in Zukunft noch geben soll!
@@ -20,11 +21,11 @@ Es läuft eine [Umfrage](https://goo.gl/forms/UkmXidcZ80N0iU253) darüber, welch
 Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/details).
 
 ### Allgemein
+
 * immer Samstags, von 10:00 bis 14:30 (inkl. 30 min Pause)
 * max. 10 Teilnehmer pro Termin
-*
-
-### Inhalt der Workshops
+* Sprache der Workshops: deutsch
+* Verpflegung für die Pause bitte selbst organisieren
 
 ### Preise
 
