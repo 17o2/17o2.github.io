@@ -13,12 +13,12 @@ welche neuen Workshops in Zukunft angeboten werden sollen!
 * *13.04.2019 - Fusion 360: A. 📐 2D-Konstruktion*
   * [Tickets 🎟](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199)
   * [Details 🔍](/happylab/details)
-  * Preis: EUR 55 Standard / EUR 45 (Schüler/Student/Azubi/Arbeitslos)
+  * Preis: EUR 60 (Standard) / EUR 45 (Schüler/Student/Azubi/Arbeitslos)
   * Keine Vorkenntnisse notwendig! 😃
 * *27.04.2019 - Fusion 360: B. ⚙️ 3D-Konstruktion*
   * [Tickets 🎟](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-59287182559)
   * [Details 🔍](/happylab/details)
-  * Preis: EUR 55 Standard / EUR 45 (Schüler/Student/Azubi/Arbeitslos)
+  * Preis: EUR 60 (Standard) / EUR 45 (Schüler/Student/Azubi/Arbeitslos)
   * 30% Ermäßigung beim Buchen von beiden Workshops!
      * Nach der Buchung von Workshop A erhälst du einen Promo-Code, der bei der Buchung von Workshop B eingelöst werden kann.
   * Notwendige Vorkenntnisse: 2D-Konstruktion (Workshop A)
@@ -41,13 +41,9 @@ Lasse deiner Fantasie freien Lauf!
 
 ---
 
-## Infos
-
-### Workshopinhalte
+## ℹ️ Infos
 
 Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/details).
-
-### ℹ️ Organisatorisches
 
 * Ort: [HappyLab Berlin](https://happylab.de/de_ber/home)
   Demminer Str. 3, 13355 Berlin
@@ -63,10 +59,6 @@ Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/deta
   * Verpflegung für die Mittagspause
   * Projektideen zum Realisieren
 
-### 💶 Preise
-
-* Normal: EUR 55
-* Ermäßigt: EUR 45 (Schüler/Studenten/Azubis/Arbeitslose)
 
 ### Vergangene Termine
 
@@ -78,7 +70,7 @@ Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/deta
 
 ## Zum Workshop-Tutor
 
-[Daniel Rojas](http://danielrojas.net) ist Ingenieur für Maschinenbau und begeisterter Hacker und Maker. Er hat bereits viele erfolgreiche Workshops zu Themen wie 3D CAD, Elektronikentwicklung und Arduino geleitet, Vorträge gehalten (z.B. auf dem [Science Hack Day Berlin](http://berlin.sciencehackday.org/)) und mit Freunden aus der [Hackaday](http://hackaday.com)-Community auf der Maker Faire Berlin Projekte präsentiert.
+[Daniel Rojas](http://danielrojas.net) ist Ingenieur für Maschinenbau und begeisterter Hacker und Maker. Er hat bereits viele erfolgreiche Workshops zu Themen wie 3D-CAD, Elektronikentwicklung und Arduino geleitet, Vorträge gehalten (z.B. auf dem [Science Hack Day Berlin](http://berlin.sciencehackday.org/)) und mit Freunden aus der [Hackaday](http://hackaday.com)-[Community](http://hackaday.io) auf der Maker Faire Berlin einige seiner Projekte präsentiert.
 
 ---
 
