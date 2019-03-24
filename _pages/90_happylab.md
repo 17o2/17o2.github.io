@@ -22,6 +22,8 @@ Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/deta
 
 ### Allgemein
 
+* Ort: HappyLab Berlin
+  Demminer Str. 3, 13355 Berlin
 * immer Samstags, von 10:00 bis 14:30 (inkl. 30 min Pause)
 * max. 10 Teilnehmer pro Termin
 * Sprache der Workshops: deutsch
