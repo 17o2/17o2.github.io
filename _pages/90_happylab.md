@@ -23,6 +23,8 @@ welche neuen Workshops in Zukunft angeboten werden sollen!
      * Nach dere Buchung von Workshop A erhälst du einen Promo-Code, der bei der Buchung von Workshop B eingelöst werden kann.
   * Notwendige Vorkenntnisse: 2D-Konstruktion
 
+---
+
 ## Einführung
 
 > * Du hast tausend coole Projektideen, dir fehlen aber die Kenntnisse, sie umzusetzen?
@@ -36,6 +38,8 @@ welche neuen Workshops in Zukunft angeboten werden sollen!
 Lerne, einfache und komplexe Projekte mithilfe mächtiger Werkzeuge umzusetzen!
 Erstelle Vorlagen für den Lasercutter (DXF), den 3D-Drucker (STL) oder die Fräse!
 Lasse deiner Fantasie freien Lauf!
+
+---
 
 ## Infos
 
@@ -62,11 +66,13 @@ Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/deta
 * Normal: EUR 55
 * Ermäßigt: EUR 45 (Schüler/Studenten/Azubis/Arbeitslose)
 
-## Vergangene Termine
+### Vergangene Termine
 
 * 24.02.2018 - Fusion 360: 📐 2D-Konstruktion
 * 03.03.2018 - Fusion 360: ⚙️ 3D-Konstruktion
 * 10.03.2018 - Fusion 360: 🔩 Baugruppen und Profi-Tools
+
+---
 
 ## Kontakt
 
