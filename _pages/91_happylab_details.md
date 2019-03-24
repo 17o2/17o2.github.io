@@ -24,7 +24,7 @@ Keine Vorkenntnisse notwendig! 😃
 ### B. ⚙️ 3D-Konstruktion - 27.04.2019 - [🎟 Tickets!](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-59287182559)
 * Körper, Constructive Solid Geometry (CSG)
 * Bohrungen, Ausschnitte, Radien und Fasen, ...
-* Reihenfolge von Operationen, Arbeiten mit der Design History Timeline
+* Reihenfolge von Operationen, Arbeiten mit der  Design History Timeline
 * Konstruktionshilfen
 
 Projekt: Legomännchen
