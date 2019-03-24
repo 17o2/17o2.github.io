@@ -11,12 +11,12 @@ category: invisible
 welche neuen Workshops in Zukunft angeboten werden sollen!
 
 * *13.04.2019 - Fusion 360: A. 📐 2D-Konstruktion*
-  * [🎫 Tickets](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
+  * [🎫 Tickets](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199)
   * [Details](/happylab/details)
   * Preis: EUR 55 Standard / EUR 45 (Schüler/Student/Azubi/Arbeitslos)
   * Keine Vorkenntnisse notwendig!
 * *27.04.2019 - Fusion 360: B. ⚙️ 3D-Konstruktion*
-  * [🎫 Tickets](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-59287182559?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
+  * [🎫 Tickets](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-59287182559)
   * [Details](/happylab/details)
   * Preis: EUR 55 Standard / EUR 45 (Schüler/Student/Azubi/Arbeitslos)
   * 30% Ermäßigung beim Buchen von beiden Workshops!
