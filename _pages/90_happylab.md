@@ -30,7 +30,7 @@ Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/deta
 ### Preise
 
 * Normal: EUR 55
-* Ermäßigt: EUR 35 (Schüler/Studenten/Azubis/Arbeitslose)
+* Ermäßigt: EUR 40 (Schüler/Studenten/Azubis/Arbeitslose)
 
 ## Vergangene Termine
 
