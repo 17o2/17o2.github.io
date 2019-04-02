@@ -57,7 +57,7 @@ Fusion 360 ist eine benutzerfreundliche und gleichzeitig mächtige CAD-Software,
 Detaillierte Beschreibungen der Workshopinhalte findest du [hier](/happylab/details).
 
 * Ort: [HappyLab Berlin](https://happylab.de/de_ber/home),
-  Demminer Str. 3, 13355 Berlin [📍](https://goo.gl/maps/6sKdnXERwa32)
+  Demminer Str. 3, 13355 Berlin [📍](https://goo.gl/maps/6sKdnXERwa32) (U Voltastraße / S+U Gesundbrunnen)
 * immer Samstags, von 10:00 bis 14:30 (inkl. 30 min Pause)
 * max. 10 Teilnehmer pro Termin, für optimale individuelle Betreuung
 * Sprache der Workshops: deutsch
