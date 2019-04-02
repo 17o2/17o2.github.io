@@ -1,7 +1,7 @@
 ---
 name: "Bo Chen"
 company: "Enway"
-role: "Co-Founder "
+role: "Co-Founder"
 website: "http://enway.ai/"
 image: "enway.png"
 text: >

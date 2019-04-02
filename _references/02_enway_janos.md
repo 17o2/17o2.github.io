@@ -1,7 +1,7 @@
 ---
 name: "János Gulyás"
 company: "Enway"
-role: "Working Student / Hardware Engineer"
+role: "Working Student + Hardware Engineer"
 website: "http://enway.ai/"
 text: >
   <p>Daniel is a super knowlegdable mechanical engineer and electronics hacker.</p>
