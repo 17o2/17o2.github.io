@@ -9,7 +9,7 @@ Hier geht es zu den [allgemeinen Infos zu den Workshops](/happylab).
 
 ## Inhalt der Workshops
 
-### A. 📐 2D-Konstruktion - 13.04.2019 - [🎟 Tickets!](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199)
+### A. 📐 2D-Konstruktion - 13.04.2019 - [🎟 Ausverkauft!](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199)
 * Einführung in Fusion 360
 * Skizzen, Bemaßungen, Beziehungen
 * Variablen und Formeln

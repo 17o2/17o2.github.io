@@ -8,7 +8,7 @@ category: invisible
 ## Aktuelles
 
 * *13.04.2019 10:00 - Fusion 360: A. 📐 2D-Konstruktion*
-  * [Tickets 🎟](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199)
+  * [Ausverkauft! 🎟](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199)
   * [Details 🔍](/happylab/details)
   * Preis: EUR 50 (Standard) / EUR 40 (Schüler/Student/Azubi/Arbeitslos)
   * Keine Vorkenntnisse notwendig! 😃
