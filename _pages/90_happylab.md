@@ -13,7 +13,7 @@ category: invisible
   * Preis: EUR 50 (Standard) / EUR 40 (Schüler/Student/Azubi/Arbeitslos)
   * Keine Vorkenntnisse notwendig! 😃
 * *27.04.2019 10:00 - Fusion 360: B. ⚙️ 3D-Konstruktion*
-  * [Tickets 🎟](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-59287182559)
+  * [Ausverkauft! 🎟](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-59287182559)
   * [Details 🔍](/happylab/details)
   * Preis: EUR 50 (Standard) / EUR 40 (Schüler/Student/Azubi/Arbeitslos)
   * 30% Ermäßigung, wenn du bereits Workshop A gebucht hast!
