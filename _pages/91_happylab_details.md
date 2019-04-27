@@ -9,11 +9,12 @@ Hier geht es zu den [allgemeinen Infos zu den Workshops](/happylab).
 
 ## Inhalt der Workshops
 
-### A. 📐 2D-Konstruktion - 13.04.2019 - [🎟 Ausverkauft!](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-59287062199)
+### A. 📐 2D-Konstruktion
 * Einführung in Fusion 360
 * Skizzen, Bemaßungen, Beziehungen
 * Variablen und Formeln
 * “2,5D"-Konstruktion
+* Erstellen von Vorlagen für den Laser Cutter (DXF)
 
 Projekt: Smartphone- / Tablet-Halter aus dem Laser Cutter
 
@@ -21,11 +22,13 @@ Keine Vorkenntnisse notwendig! 😃
 
 ---
 
-### B. ⚙️ 3D-Konstruktion - 27.04.2019 - [🎟 Ausverkauft!](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-59287182559)
+### B. ⚙️ 3D-Konstruktion - 27.04.2019
 * Körper, Constructive Solid Geometry (CSG)
-* Bohrungen, Ausschnitte, Radien und Fasen, ...
-* Reihenfolge von Operationen, Arbeiten mit der  Design History Timeline
+* Bohrungen, Ausschnitte, Drehteile, Sweeps, ...
+* Arbeiten mit der  Design History Timeline, Reihenfolge von Operationen
 * Konstruktionshilfen
+* Baugruppen und Komponenten
+* Verbindungen und Gelenke
 
 Projekt: Legomännchen
 
@@ -33,9 +36,10 @@ Notwendige Vorkenntnisse: 2D-Konstruktion (Workshop A)
 
 ---
 
-### C. 🔩 Baugruppen und Profi-Tools - 🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)
-* Baugruppen und Komponenten
-* Verbindungen und Gelenke
+### C. 🔩 Profi-Tools - 🛑 nur bei [Bedarf](https://goo.gl/forms/UkmXidcZ80N0iU253)
+* Komplexe Baugruppen
+* Referenzen zwischen Komponenten, "dynamische" Konstruktion
+* Import von externen Modellen
 * Messwerkzeuge, Querschnitte, Kollisionsanalyse,
 
 Projekt: Arduino-Gehäuse
