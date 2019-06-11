@@ -9,11 +9,11 @@ Hier geht es zu den [allgemeinen Infos zu den Workshops](/happylab).
 
 ## Inhalt der Workshops
 
-### A. 📐 2D-Konstruktion
+### A. 📐 2D-Konstruktion - 24.08.2019 - [🎟 Tickets!](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-63341923398)
 * Einführung in Fusion 360
 * Skizzen, Bemaßungen, Beziehungen
 * Variablen und Formeln
-* “2,5D"-Konstruktion
+* “2,5D"-Konstruktion, Radien und Fasen
 * Erstellen von Vorlagen für den Laser Cutter (DXF)
 
 Projekt: Smartphone- / Tablet-Halter aus dem Laser Cutter
@@ -22,7 +22,7 @@ Keine Vorkenntnisse notwendig! 😃
 
 ---
 
-### B. ⚙️ 3D-Konstruktion - 27.04.2019
+### B. ⚙️ 3D-Konstruktion - 31.08.2019 - [🎟 Tickets!](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-63342016677)
 * Körper, Constructive Solid Geometry (CSG)
 * Bohrungen, Ausschnitte, Drehteile, Sweeps, ...
 * Arbeiten mit der  Design History Timeline, Reihenfolge von Operationen
