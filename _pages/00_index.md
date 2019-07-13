@@ -49,6 +49,6 @@ layout: default
 
 <article class="bubble">
 <center>
-<img src="/projectimages/bc_hires.png" style="width:400px;max-width:100%">
+<img src="/images/businesscard_hires.png" style="width:400px;max-width:100%">
 </center>
 </article>
