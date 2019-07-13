@@ -1,4 +1,5 @@
 ---
+shortname: cadart
 title: "CAD Art"
 date: 0100-01-01
 category: personal

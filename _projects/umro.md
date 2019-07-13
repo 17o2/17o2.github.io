@@ -1,4 +1,5 @@
 ---
+shortname: umro
 title: "Uranium Marble Ring Oscillator"
 date: 2014-01-01
 category: personal

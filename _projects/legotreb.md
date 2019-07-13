@@ -1,4 +1,5 @@
 ---
+shortname: legotreb
 title: LEGO Trebuchet
 date: 0300-01-01
 category: personal

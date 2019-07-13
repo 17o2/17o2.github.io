@@ -1,4 +1,5 @@
 ---
+shortname: posterslogos
 title: "Posters & Logos"
 date: 0200-01-01
 category: personal

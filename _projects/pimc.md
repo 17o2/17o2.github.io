@@ -1,4 +1,5 @@
 ---
+shortname: pimc
 title: "Pixel in my Closet"
 date: 2010-01-01
 category: personal

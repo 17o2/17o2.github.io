@@ -1,4 +1,5 @@
 ---
+shortname: bikepaintjob
 title: "Custom Bike Paintjob"
 date: 0300-01-01
 category: personal

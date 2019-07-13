@@ -1,4 +1,5 @@
 ---
+shortname: traintimes
 title: "VBB Timetable"
 date: 2017-02-01
 category: personal

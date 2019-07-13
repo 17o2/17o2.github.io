@@ -1,4 +1,5 @@
 ---
+shortname: uchuusashineko
 title: "Uchūsashi-neko"
 date: 2017-01-01
 category: personal

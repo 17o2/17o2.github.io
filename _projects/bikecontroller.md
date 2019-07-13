@@ -1,4 +1,5 @@
 ---
+shortname: bikecontroller
 title: "Teensy Bike Controller"
 date: 2017-01-01
 category: personal

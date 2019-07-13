@@ -1,4 +1,5 @@
 ---
+shortname: ledpoly
 title: "LED Polyhedron"
 date: 2015-12-31
 category: personal

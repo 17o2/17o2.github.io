@@ -1,4 +1,5 @@
 ---
+shortname: avrprog
 title: "Minimalistic AVR Programmer"
 date: 2000-01-01
 category: personal

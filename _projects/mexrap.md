@@ -1,4 +1,5 @@
 ---
+shortname: mexrap
 title: "MexRap 3D Printer"
 date: 2013-01-01
 category: personal

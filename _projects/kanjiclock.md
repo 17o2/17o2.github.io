@@ -1,4 +1,5 @@
 ---
+shortname: kanjiclock
 title: "Kanji Clock"
 date: 2016-06-01
 category: personal

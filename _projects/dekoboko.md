@@ -1,4 +1,5 @@
 ---
+shortname: dekoboko
 title: "Dekoboko &#x51F8;&#x51F9;"
 date: 2015-04-01
 category: personal

@@ -1,4 +1,5 @@
 ---
+shortname: ktrainer
 title: "kTrainer"
 date: 2017-04-01
 category: personal

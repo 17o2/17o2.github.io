@@ -1,4 +1,5 @@
 ---
+shortname: touchpadgestures
 title: "Touchpad Gestures"
 date: 2011-01-01
 category: personal

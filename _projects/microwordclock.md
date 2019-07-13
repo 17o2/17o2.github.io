@@ -1,4 +1,5 @@
 ---
+shortname: microwordclock
 title: "Micro Word Clock"
 date: 2014-11-01
 category: personal

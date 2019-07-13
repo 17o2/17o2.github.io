@@ -1,4 +1,5 @@
 ---
+shortname: pocketengdraw
 title: Pocket-sized Engineering Drawings
 date: 0200-01-01
 category: personal
