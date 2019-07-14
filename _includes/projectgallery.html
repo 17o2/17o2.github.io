@@ -8,12 +8,17 @@
 <div style="flex: 1;text-align:center;padding-left:1em;padding-right:1em;padding-top:0em;padding-bottom:0em;">
 
 <a href="{{ project.url }}">
-{% if project.image %}
-<div style="padding-top:2em"><img src="/projectimages/{{ project.image }}" class="project-image" style="width:400px;max-width:25vw;" /></div>
-{% endif %}
+<div style="padding-top:2em">
+  {% for image in site.static_files %}
+    {% if image.path contains project.shortname and image.path contains '/thumbnail.' %}
+        <img src="{{ image.path }}" class="project-image" style="width:400px;max-width:25vw;" />
+    {% endif %}
+  {% endfor %}
+</div>
 <h3 style="margin-bottom:0px;">{{project.title}}</h3>
 </a>
 <div style="letter-spacing:0.25em;">
+{% if project.hasgallery %}<a href="{{project.url}}#gallery"><i class='fa fa-picture-o fa-lg'></i></a>{% endif %}
 {% if project.github %}<a href="{{project.github}}"><i class='fa fa-github fa-lg'></i></a>{% endif %}
 {% if project.hackaday %}<a href="{{project.hackaday}}"><i class='fa fa-rocket fa-lg'></i></a>{% endif %}
 {% if project.youtube %}<a href="{{project.youtube}}"><i class='fa fa-youtube-play fa-lg'></i></a>{% endif %}
@@ -25,9 +30,6 @@
 {% if project.wip %}
 <div><small><i class='fa fa-gears'></i> [Work in progress]</small></div>
 {% endif %}
-<!-- {% if project.description and false %}
-<p>{{project.description}}</p>
-{% endif %} -->
 
 </div>
 

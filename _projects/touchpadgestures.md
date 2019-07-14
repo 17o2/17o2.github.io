@@ -4,7 +4,6 @@ title: "Touchpad Gestures"
 date: 2011-01-01
 category: personal
 subcategory: engineering
-image: "touchpadgestures.jpg"
 summary: "Controlling OS X and a Mood Lamp"
 hackaday:
 github:

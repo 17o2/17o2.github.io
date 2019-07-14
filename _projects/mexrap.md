@@ -4,7 +4,6 @@ title: "MexRap 3D Printer"
 date: 2013-01-01
 category: personal
 subcategory: engineering
-image: "mexrap.jpg"
 summary: "My own Mendel90-based design."
 hackaday:
 github:
