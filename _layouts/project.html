@@ -41,18 +41,11 @@ layout: default
     <a name="gallery" />
     <div class="gallery">
     {% for image in site.static_files %}
-      {% if image.path contains page.shortname and image.path contains '/gallery/' %}
+      {% if image.path contains page.shortname and image.path contains '/gallery/originals' %}
 
-        <a href="{{ image.path }}" xxx-data-caption="Image caption">
-          <img src="{{ image.path }}" xxx-alt="First image" height="100">
+        <a href="{{ image.path }}" xxx-data-caption="">
+          <img src="{{ image.path | replace: "originals", "thumbnails" | replace: image.name, "" }}/{{ image.basename }}_thumb{{ image.extname }}" xxx-alt="" height="100">
         </a>
-
-          <!-- <a href="{{ image.path }}" target="_blank"><img src="{{ image.path }}" alt="image" height="100" /></a> -->
-
-          <!-- <li>{{ image.path }}
-          <li>{{ image.name }}
-          <li>{{ image.basename }}_thumb{{ image.extname }} -->
-          <!-- <br /> -->
 
       {% endif %}
     {% endfor %}
