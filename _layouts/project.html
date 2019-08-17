@@ -43,9 +43,39 @@ layout: default
     {% for image in site.static_files %}
       {% if image.path contains page.shortname and image.path contains '/gallery/originals' %}
 
-        <a href="{{ image.path }}" xxx-data-caption="">
-          <img src="{{ image.path | replace: "originals", "thumbnails" | replace: image.name, "" }}{{ image.basename }}_thumb{{ image.extname | downcase }}" xxx-alt="" height="100">
-        </a>
+      {% assign extname_downcase = image.extname | downcase%}
+
+
+      {% assign path_thumb = image.path %}
+      {% assign path_thumb = path_thumb | replace: "originals", "thumbnails" | replace: image.name, "" %}
+      {% assign path_thumb = path_thumb | append: image.basename %}
+      {% assign path_thumb = path_thumb | append: "_thumb" %}
+      {% assign path_thumb = path_thumb | append: image.extname | downcase %}
+
+      {% assign path_large = image.path %}
+      {% assign path_large = path_large | replace: "originals", "large" | replace: image.name, "" %}
+      {% assign path_large = path_large | append: image.basename %}
+      {% assign path_large = path_large | append: "_large" %}
+      {% assign path_large = path_large | append: extname_downcase %}
+
+      {% capture thumb_exists %}{% file_exists {{ path_thumb }} %}{% endcapture %}
+      {% capture large_exists %}{% file_exists {{ path_large }} %}{% endcapture %}
+
+      {% if large_exists == "true" %}
+      <a href="{{ path_large }}" xxx-data-caption="">
+      {% else %}
+      <a href="{{ image.path }}" xxx-data-caption="">
+      {% endif %}
+
+          {% if thumb_exists == "true" %}
+          <img src="{{ path_thumb }}" xxx-alt="" height="100">
+          {% elsif large_exists == "true" %}
+          <img src="{{ path_large }}" xxx-alt="" height="100">
+          {% else %}
+          <img src="{{ image.path }}" xxx-alt="" height="100">
+          {% endif %}
+
+      </a>
 
       {% endif %}
     {% endfor %}
