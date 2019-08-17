@@ -44,7 +44,7 @@ layout: default
       {% if image.path contains page.shortname and image.path contains '/gallery/originals' %}
 
         <a href="{{ image.path }}" xxx-data-caption="">
-          <img src="{{ image.path | replace: "originals", "thumbnails" | replace: image.name, "" }}{{ image.basename }}_thumb{{ image.extname }}" xxx-alt="" height="100">
+          <img src="{{ image.path | replace: "originals", "thumbnails" | replace: image.name, "" }}{{ image.basename }}_thumb{{ image.extname | downcase }}" xxx-alt="" height="100">
         </a>
 
       {% endif %}
