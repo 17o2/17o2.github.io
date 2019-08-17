@@ -50,7 +50,7 @@ layout: default
       {% assign path_thumb = path_thumb | replace: "originals", "thumbnails" | replace: image.name, "" %}
       {% assign path_thumb = path_thumb | append: image.basename %}
       {% assign path_thumb = path_thumb | append: "_thumb" %}
-      {% assign path_thumb = path_thumb | append: image.extname | downcase %}
+      {% assign path_thumb = path_thumb | append: extname_downcase %}
 
       {% assign path_large = image.path %}
       {% assign path_large = path_large | replace: "originals", "large" | replace: image.name, "" %}
