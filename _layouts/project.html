@@ -58,23 +58,8 @@ layout: default
       {% assign path_large = path_large | append: "_large" %}
       {% assign path_large = path_large | append: extname_downcase %}
 
-      {% capture thumb_exists %}{% file_exists {{ path_thumb }} %}{% endcapture %}
-      {% capture large_exists %}{% file_exists {{ path_large }} %}{% endcapture %}
-
-      {% if large_exists == "true" %}
       <a href="{{ path_large }}" xxx-data-caption="">
-      {% else %}
-      <a href="{{ image.path }}" xxx-data-caption="">
-      {% endif %}
-
-          {% if thumb_exists == "true" %}
           <img src="{{ path_thumb }}" xxx-alt="" height="100">
-          {% elsif large_exists == "true" %}
-          <img src="{{ path_large }}" xxx-alt="" height="100">
-          {% else %}
-          <img src="{{ image.path }}" xxx-alt="" height="100">
-          {% endif %}
-
       </a>
 
       {% endif %}
