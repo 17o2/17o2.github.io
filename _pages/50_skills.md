@@ -11,7 +11,7 @@ category: professional
 * Available for hire on a freelance basis or for full-time positions.
 * Based in Berlin, Germany.
 
-## Mechanical Design
+## Mechanical design <i class='fa fa-gears'></i>
 
 * Project ideation and sketching
 * 3D CAD, technical drawings, dimensioning and tolerancing
@@ -19,14 +19,14 @@ category: professional
 * Rapid prototyping using 3D printing, laser cutting, ...
 * Advice on technologies, manufacturing and assembly
 
-## Electrical and Electronics Prototyping
+## Electrical and electronics prototyping <i class='fa fa-microchip'></i>
 
 * Circuit design and PCB layout
 * Wiring and machine level electrical design
 * Microcontroller programming
 * Hands-on building, integration and troubleshooting
 
-## Languages
+## Languages <i class='fa fa-globe-w'></i>
 
 * German (native)
 * Spanish (native)
@@ -41,4 +41,4 @@ category: professional
 
 A portfolio of professional projects is coming soon.
 <br />
-You might also be interested in my [personal engineering projects]({{ "/personal/engineering" }}).
+You might also be interested in my [personal engineering projects <i class='fa fa-wrench'></i>]({{ "/personal/engineering" }}).
