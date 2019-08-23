@@ -33,6 +33,13 @@ category: professional
 * English (full working proficiency)
 * Japanese (JLPT N2 / CEFR B2)
 
+## Fields of interest <i class='fa fa-smile-o'></i>
+
+* Robotics and bionics
+* Industrial automation
+* Autonomous mobility
+* Design, art and media
+
 ## Further information
 
 * Have a look at my [references <i class='fa fa-comment'></i>]({{ "/professional/references" }})
