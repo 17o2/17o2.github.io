@@ -5,6 +5,5 @@ date: 0200-01-01
 category: personal
 subcategory: designart
 summary: "Made for various events, T-shirts, etc."
-xxx-flickr: "http://www.flickr.com/photos/104306512@N02/sets/72157636211522085/"
 hasgallery: true
 ---
