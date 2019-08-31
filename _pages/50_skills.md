@@ -15,6 +15,7 @@ category: professional
 
 * Project ideation and sketching
 * 3D CAD, technical drawings, dimensioning and tolerancing
+  * Mainly SolidWorks, also Fusion 360
 * Design for CNC, sheet metal, injection molding, weldments, ...
 * Rapid prototyping using 3D printing, laser cutting, ...
 * Advice on technologies, manufacturing and assembly
