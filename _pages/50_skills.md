@@ -5,11 +5,11 @@ category: professional
 ---
 
 
-* Mechanical Engineer by training, hardware hacker and maker by heart, with a passion for mechatronic projects.
-* Advisor and troubleshooter for hardware startups.
+* Mechanical Engineer by training, hardware hacker and maker by heart, with a passion for mechatronic projects
+* Advisor and troubleshooter for hardware startups
 * &gt;{{ 'now' | date: "%Y" | minus:2014 }} years of industry experience
-* Available for hire on a freelance basis or for full-time positions.
-* Based in Berlin, Germany.
+* Available for hire on a freelance basis or for full-time positions
+* Based in Berlin, Germany
 
 ## Mechanical design <i class='fa fa-gears'></i>
 
@@ -42,6 +42,7 @@ category: professional
 
 ## Further information
 
+* I also hold [workshops <i class='fa fa-users'></i>]({{ "/professional/workshops" }}) on different engineering topics
 * Have a look at my [references <i class='fa fa-comment'></i>]({{ "/professional/references" }})
 * Visit my professional profiles on [LinkedIn <i class='fa fa-linkedin-square'></i>](http://www.linkedin.com/in/rojasdaniel) and [AngelList <i class='fa fa-angellist'></i>](https://angel.co/formatc1702)
 * Contact me via [mail <i class='fa fa-paper-plane'></i>](mailto:hello@danielrojas.net)
