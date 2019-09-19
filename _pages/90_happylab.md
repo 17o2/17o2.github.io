@@ -9,18 +9,18 @@ category: invisible
 
 Voraussichtlich neue Workshops im November... Ankündigung über Happylab Newsletter folgt!
 
-<!-- * *XX.XX.2019 10:00 - Fusion 360: A. 📐 2D-Konstruktion*
-  * [Tickets! 🎟](https://127.0.0.1)
+* *16.11.2019 10:00 - Fusion 360: A. 📐 2D-Konstruktion*
+  * [Tickets! 🎟](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-72725703537)
   * [Details 🔍](/happylab/details)
   * Preis: EUR 50 (Standard) / EUR 40 (Schüler/Student/Azubi/Arbeitslos)
   * Keine Vorkenntnisse notwendig! 😃
-* *31.08.2019 10:00 - Fusion 360: B. ⚙️ 3D-Konstruktion*
-  * [Tickets! 🎟](https://127.0.0.1)
+* *23.11.2019 10:00 - Fusion 360: B. ⚙️ 3D-Konstruktion*
+  * [Tickets! 🎟](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-72725587189)
   * [Details 🔍](/happylab/details)
   * Preis: EUR 50 (Standard) / EUR 40 (Schüler/Student/Azubi/Arbeitslos)
   * 30% Ermäßigung, wenn du bereits Workshop A gebucht hast!
      * Nach der Buchung von Workshop A erhälst du einen Promo-Code, der bei der Buchung von Workshop B eingelöst werden kann.
-  * Notwendige Vorkenntnisse: 2D-Konstruktion (Workshop A) -->
+  * Notwendige Vorkenntnisse: 2D-Konstruktion (Workshop A)
 
 ⚠️ Es läuft eine Umfrage darüber,
 welche neuen Workshops in Zukunft zusätzlich angeboten werden sollen! [Sag uns deine Meinung! 🗯](/happylab/poll)
