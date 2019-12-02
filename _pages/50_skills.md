@@ -13,7 +13,7 @@ category: professional
 
 ## Mechanical design <i class='fa fa-gears'></i>
 
-* Project ideation and sketching
+* Project ideation, defining requirements and specifications
 * 3D CAD, technical drawings, dimensioning and tolerancing
   * Mainly SolidWorks, also Fusion 360
 * Design for CNC, sheet metal, injection molding, weldments, ...
@@ -32,7 +32,7 @@ category: professional
 * German (native)
 * Spanish (native)
 * English (full working proficiency)
-* Japanese (JLPT N2 / CEFR B2)
+* Japanese (advanced proficiency, JLPT N2 / CEFR B2)
 
 ## Fields of interest <i class='fa fa-smile-o'></i>
 
