@@ -9,7 +9,7 @@ Hier geht es zu den [allgemeinen Infos zu den Workshops](/happylab).
 
 ## Inhalt der Workshops
 
-### A. 📐 2D-Konstruktion
+### A. 📐 2D-Konstruktion - 31.10.2020 - [🎟 Tickets!](https://www.eventbrite.com/e/fusion-360-workshop-2d-konstruktion-tickets-123218236061)
 * Einführung in Fusion 360
 * Skizzen, Bemaßungen, Beziehungen
 * Variablen und Formeln
@@ -22,7 +22,7 @@ Keine Vorkenntnisse notwendig! 😃
 
 ---
 
-### B. ⚙️ 3D-Konstruktion
+### B. ⚙️ 3D-Konstruktion - 07.11.2020 - [🎟 Tickets!](https://www.eventbrite.com/e/fusion-360-workshop-3d-konstruktion-tickets-123218924119)
 * Körper, Constructive Solid Geometry (CSG)
 * Bohrungen, Ausschnitte, Drehteile, Sweeps, ...
 * Arbeiten mit der  Design History Timeline, Reihenfolge von Operationen
