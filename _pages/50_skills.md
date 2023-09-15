@@ -24,7 +24,7 @@ category: professional
 
 * Circuit design and PCB layout
 * Wiring and machine level electrical design
-  * Author of [WireViz](https://github.com/wireviz/WireViz), a tool to efficiently generate beautiful wiring documentation
+  * Author of [WireViz](https://github.com/wireviz/WireViz), a tool to efficiently generate beautiful wiring harness documentation
 * Microcontroller programming
 * Hands-on building, integration and troubleshooting
 
