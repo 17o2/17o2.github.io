@@ -8,22 +8,23 @@ category: professional
 * Mechanical Engineer by training, hardware hacker and maker by heart, with a passion for mechatronic projects
 * Advisor and troubleshooter for hardware startups
 * &gt;{{ 'now' | date: "%Y" | minus:2014 }} years of industry experience
-* Available for hire on a freelance basis or for full-time positions
+* Currently available for hire on a freelance basis
 * Based in Berlin, Germany
 
 ## Mechanical design <i class='fa fa-gears'></i>
 
 * Project ideation, defining requirements and specifications
-* 3D CAD, technical drawings, dimensioning and tolerancing
-  * Mainly SolidWorks, also Fusion 360
-* Design for CNC, sheet metal, injection molding, weldments, ...
-* Rapid prototyping using 3D printing, laser cutting, ...
-* Advice on technologies, manufacturing and assembly
+* 3D CAD, technical drawings, dimensioning and tolerancing (Solidworks, Fusion 360, ...)
+* Design for CNC, sheet metal, injection molding, weldments; low and high volume production
+* Advice on technologies, manufacturing, assembly processes and documentation
+* Rapid prototyping using 3D printing (FDM, MJF, SLA), laser cutting, ...
+* Hands-on mechanical workshop skills
 
 ## Electrical and electronics prototyping <i class='fa fa-microchip'></i>
 
 * Circuit design and PCB layout
 * Wiring and machine level electrical design
+  * Author of [WireViz](https://github.com/wireviz/WireViz), a tool to efficiently generate beautiful wiring documentation
 * Microcontroller programming
 * Hands-on building, integration and troubleshooting
 
@@ -38,7 +39,8 @@ category: professional
 
 * Robotics and bionics
 * Industrial automation
-* Autonomous mobility
+* Medical technology
+  * Familiar with IEC 60601, ISO 13485 standards
 * Design, art and media
 
 ## Further information
