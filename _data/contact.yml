@@ -17,5 +17,5 @@
 #   link: https://angel.co/formatc1702
 #   icon: angellist
 - name: Mail
-  link: mailto:hello@danielrojas.net
+  link: mailto:hello{curlythingy}danielrojas.net
   icon: paper-plane
