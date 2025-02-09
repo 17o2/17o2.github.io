@@ -47,7 +47,7 @@ category: professional
 
 * I also hold [workshops <i class='fa fa-users'></i>]({{ "/professional/workshops" }}) on different engineering topics
 * Have a look at my [references <i class='fa fa-comment'></i>]({{ "/professional/references" }})
-* Visit my professional profiles on [LinkedIn <i class='fa fa-linkedin-square'></i>](http://www.linkedin.com/in/rojasdaniel) and [AngelList <i class='fa fa-angellist'></i>](https://angel.co/formatc1702)
+* Visit my professional profiles on [LinkedIn <i class='fa fa-linkedin-square'></i>](http://www.linkedin.com/in/rojasdaniel) and [Wellfound <i class='fa fa-angellist'></i>](https://wellfound.com/u/17o2)
 * Contact me via [mail <i class='fa fa-paper-plane'></i>](mailto:hello@danielrojas.net)
 
 A portfolio of professional projects is coming soon.

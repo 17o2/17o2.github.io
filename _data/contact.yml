@@ -2,7 +2,7 @@
   link: https://hackaday.io/17o2
   icon: hackaday
 - name: GitHub
-  link: https://github.com/formatc1702
+  link: https://github.com/17o2
   icon: github
 - name: Mastodon
   link: https://chaos.social/@17o2
@@ -13,9 +13,9 @@
 # - name: Xing
 #   link: https://www.xing.com/profile/Daniel_Rojas20
 #   icon: xing
-# - name: AngelList
-#   link: https://angel.co/formatc1702
-#   icon: angellist
+- name: Wellfound
+  link: https://wellfound.com/u/17o2
+  icon: angellist
 - name: Mail
   link: mailto:hello{curlythingy}danielrojas.net
   icon: paper-plane
