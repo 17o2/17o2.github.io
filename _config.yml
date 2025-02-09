@@ -30,25 +30,22 @@ github_username: 17o2
 # from https://www.taniarascia.com/make-a-static-website-with-jekyll/
 sass:
   sass_dir: _sass
-include: ['_pages']
+include: ["_pages"]
 kramdown:
   input: GFM
 
 # from https://jekyllrb.com/docs/configuration/#front-matter-defaults
 defaults:
-  -
-    scope:
-      path: '_pages'
+  - scope:
+      path: "_pages"
     values:
       layout: page
-  -
-    scope:
-      path: '_projects'
+  - scope:
+      path: "_projects"
     values:
       layout: project
-  -
-    scope:
-      path: 'projectimages'
+  - scope:
+      path: "projectimages"
     values:
       image: true
   # -
@@ -68,8 +65,6 @@ collections:
     output: false
   references:
     output: false
-
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
