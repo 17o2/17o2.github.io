@@ -5,6 +5,6 @@ date: 2017-04-01
 category: personal
 subcategory: engineering
 summary: ""
-github: "https://github.com/formatc1702/kTrainer"
+github: "https://github.com/17o2/kTrainer"
 wip: true
 ---
